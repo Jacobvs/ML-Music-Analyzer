@@ -1,25 +1,3 @@
-#!/usr/bin/env python
-
-from __future__ import print_function
-
-"""
-This script downloads all the song files from the URLs included in the
-id_index_internetarchive.csv file contained in the SALAMI data set.
-The downloaded files will be saved as song_id.mp3.
-Usage:
-    python SALAMI_download.py csv_file output_dir
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-"""
-
 import os
 import argparse
 import urllib2

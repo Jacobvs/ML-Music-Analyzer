@@ -1,0 +1,1426 @@
+0.092879819  [2, 7, 11]  G-major triad
+0.185759638  [2, 7, 11]  G-major triad
+0.27863945700000003  [2, 7, 11]  G-major triad
+0.371519276  [2, 7, 11]  G-major triad
+0.464399095  [2, 7, 11]  G-major triad
+0.557278914  [2, 7, 11]  G-major triad
+0.6501587329999999  [2, 7, 11]  G-major triad
+0.7430385519999999  [2, 7, 11]  G-major triad
+0.8359183709999999  [2, 7, 11]  G-major triad
+0.9287981899999999  [2, 7, 11]  G-major triad
+1.021678009  [2, 7, 11]  G-major triad
+1.114557828  [2, 7, 11]  G-major triad
+1.207437647  [2, 7, 11]  G-major triad
+1.3003174659999999  [2, 7, 11]  G-major triad
+1.3931972849999998  [2, 7, 11]  G-major triad
+1.4860771039999998  [2, 7, 11]  G-major triad
+1.5789569229999998  [2, 7, 11]  G-major triad
+1.6718367419999998  [2, 7, 11]  G-major triad
+1.7647165609999997  [2, 7, 11]  G-major triad
+1.8575963799999997  [2, 7, 11]  G-major triad
+1.9504761989999997  [2, 7, 11]  G-major triad
+2.043356018  [2, 7, 11]  G-major triad
+2.136235837  [2, 7, 11]  G-major triad
+2.2291156560000003  [2, 7, 11]  G-major triad
+2.3219954750000005  [2, 7, 11]  G-major triad
+2.4148752940000007  [2, 7, 11]  G-major triad
+2.507755113000001  [2, 7, 11]  G-major triad
+2.600634932000001  [2, 7, 11]  G-major triad
+2.6935147510000013  [2, 7, 11]  G-major triad
+2.7863945700000015  [2, 7, 11]  G-major triad
+2.8792743890000017  [2, 7, 11]  G-major triad
+2.972154208000002  [2, 7, 11]  G-major triad
+3.065034027000002  [2, 7, 11]  G-major triad
+3.1579138460000022  [2, 7, 11]  G-major triad
+3.2507936650000024  [2, 7, 11]  G-major triad
+3.3436734840000026  [2, 7, 11]  G-major triad
+3.436553303000003  [2, 7, 11]  G-major triad
+3.529433122000003  [2, 7, 11]  G-major triad
+3.6223129410000032  [2, 7, 11]  G-major triad
+3.7151927600000034  [2, 7, 11]  G-major triad
+3.8080725790000036  [2, 7, 11]  G-major triad
+3.900952398000004  [2, 7, 11]  G-major triad
+3.993832217000004  [2, 7, 11]  G-major triad
+4.086712036000004  [2, 7, 11]  G-major triad
+4.179591855000004  [2, 7, 11]  G-major triad
+4.272471674000005  [2, 7, 11]  G-major triad
+4.365351493000005  [2, 7, 11]  G-major triad
+4.458231312000005  [2, 7, 11]  G-major triad
+4.551111131000005  [2, 7, 11]  G-major triad
+4.643990950000005  [2, 7, 11]  G-major triad
+4.736870769000006  [2, 7, 11]  G-major triad
+4.829750588000006  [2, 7, 11]  G-major triad
+4.922630407000006  [2, 7, 11]  G-major triad
+5.015510226000006  [2, 7, 11]  G-major triad
+5.108390045000006  [2, 7, 11]  G-major triad
+5.201269864000007  [2, 7, 11]  G-major triad
+5.294149683000007  [2, 7, 11]  G-major triad
+5.387029502000007  [2, 7, 11]  G-major triad
+5.479909321000007  [2, 7, 11]  G-major triad
+5.572789140000007  [2, 7, 11]  G-major triad
+5.6656689590000076  [2, 7, 11]  G-major triad
+5.758548778000008  [2, 7, 11]  G-major triad
+5.851428597000008  [2, 7, 11]  G-major triad
+5.944308416000008  [2, 7, 11]  G-major triad
+6.037188235000008  [2, 7, 11]  G-major triad
+6.1300680540000085  [2, 7, 11]  G-major triad
+6.222947873000009  [2, 7, 11]  G-major triad
+6.315827692000009  [2, 7, 11]  G-major triad
+6.408707511000009  [2, 7, 11]  G-major triad
+6.501587330000009  [2, 7, 11]  G-major triad
+6.5944671490000095  [2, 7, 11]  G-major triad
+6.68734696800001  [2, 7, 11]  G-major triad
+6.78022678700001  [2, 7, 11]  G-major triad
+6.87310660600001  [2, 7, 11]  G-major triad
+6.96598642500001  [2, 7, 11]  G-major triad
+7.0588662440000105  [2, 7, 11]  G-major triad
+7.151746063000011  [2, 7, 11]  G-major triad
+7.244625882000011  [2, 7, 11]  G-major triad
+7.337505701000011  [2, 7, 11]  G-major triad
+7.430385520000011  [2, 7, 11]  G-major triad
+7.5232653390000115  [2, 7, 11]  G-major triad
+7.616145158000012  [2, 7, 11]  G-major triad
+7.709024977000012  [2, 7, 11]  G-major triad
+7.801904796000012  [2, 7, 11]  G-major triad
+7.894784615000012  [2, 7, 11]  G-major triad
+7.9876644340000125  [2, 7, 11]  G-major triad
+8.080544253000012  [2, 7, 11]  G-major triad
+8.173424072000012  [2, 7, 11]  G-major triad
+8.266303891000012  [2, 7, 11]  G-major triad
+8.359183710000012  [2, 7, 11]  G-major triad
+8.452063529000013  [2, 7, 11]  G-major triad
+8.544943348000013  [2, 7, 11]  G-major triad
+8.637823167000013  [2, 7, 11]  G-major triad
+8.730702986000013  [2, 7, 11]  G-major triad
+8.823582805000013  [2, 7, 11]  G-major triad
+8.916462624000014  [2, 7, 11]  G-major triad
+9.009342443000014  [2, 7, 11]  G-major triad
+9.102222262000014  [2, 7, 11]  G-major triad
+9.195102081000014  [2, 7, 11]  G-major triad
+9.287981900000014  [2, 7, 11]  G-major triad
+9.380861719000015  [0, 4, 9]  A-minor triad
+9.473741538000015  [0, 4, 9]  A-minor triad
+9.566621357000015  [0, 4, 9]  A-minor triad
+9.659501176000015  [0, 4, 9]  A-minor triad
+9.752380995000015  [0, 4, 9]  A-minor triad
+9.845260814000016  [0, 4, 9]  A-minor triad
+9.938140633000016  [0, 4, 9]  A-minor triad
+10.031020452000016  [0, 4, 9]  A-minor triad
+10.123900271000016  [0, 4, 9]  A-minor triad
+10.216780090000016  [0, 4, 9]  A-minor triad
+10.309659909000016  [0, 4, 9]  A-minor triad
+10.402539728000017  [0, 4, 9]  A-minor triad
+10.495419547000017  [0, 4, 9]  A-minor triad
+10.588299366000017  [0, 4, 9]  A-minor triad
+10.681179185000017  [0, 4, 9]  A-minor triad
+10.774059004000017  [0, 4, 9]  A-minor triad
+10.866938823000018  [0, 4, 9]  A-minor triad
+10.959818642000018  [0, 4, 9]  A-minor triad
+11.052698461000018  [0, 4, 9]  A-minor triad
+11.145578280000018  [0, 4, 9]  A-minor triad
+11.238458099000018  [0, 4, 9]  A-minor triad
+11.331337918000019  [0, 4, 9]  A-minor triad
+11.424217737000019  [0, 4, 9]  A-minor triad
+11.517097556000019  [0, 4, 9]  A-minor triad
+11.60997737500002  [0, 4, 9]  A-minor triad
+11.70285719400002  [0, 4, 9]  A-minor triad
+11.79573701300002  [0, 4, 9]  A-minor triad
+11.88861683200002  [0, 4, 9]  A-minor triad
+11.98149665100002  [0, 4, 9]  A-minor triad
+12.07437647000002  [0, 4, 9]  A-minor triad
+12.16725628900002  [0, 4, 9]  A-minor triad
+12.26013610800002  [0, 4, 9]  A-minor triad
+12.35301592700002  [0, 4, 9]  A-minor triad
+12.445895746000021  [0, 4, 9]  A-minor triad
+12.538775565000021  [0, 4, 9]  A-minor triad
+12.631655384000021  [0, 4, 9]  A-minor triad
+12.724535203000022  [0, 4, 9]  A-minor triad
+12.817415022000022  [0, 4, 9]  A-minor triad
+12.910294841000022  [0, 4]  C-interval class 4
+13.003174660000022  [0, 4]  C-interval class 4
+13.096054479000022  [0, 4]  C-interval class 4
+13.188934298000023  [0, 4]  C-interval class 4
+13.281814117000023  [0, 4]  C-interval class 4
+13.374693936000023  [4]  E-unison
+13.467573755000023  [4]  E-unison
+13.560453574000023  [4]  E-unison
+13.653333393000024  [4]  E-unison
+13.746213212000024  [4]  E-unison
+13.839093031000024  [4]  E-unison
+13.931972850000024  [4]  E-unison
+14.024852669000024  [4]  E-unison
+14.117732488000025  [4]  E-unison
+14.210612307000025  [4]  E-unison
+14.303492126000025  [0, 0, 0]  No_Chord
+14.396371945000025  [0, 0, 0]  No_Chord
+14.489251764000025  [0, 0, 0]  No_Chord
+14.582131583000026  [0]  C-unison
+14.675011402000026  [0]  C-unison
+14.767891221000026  [0]  C-unison
+14.860771040000026  [0, 9]  A-interval class 3
+14.953650859000026  [0, 9]  A-interval class 3
+15.046530678000027  [0, 9]  A-interval class 3
+15.139410497000027  [0, 9]  A-interval class 3
+15.232290316000027  [0, 9]  A-interval class 3
+15.325170135000027  [0, 9]  A-interval class 3
+15.418049954000027  [0, 9]  A-interval class 3
+15.510929773000028  [0, 4, 9]  A-minor triad
+15.603809592000028  [0, 4, 9]  A-minor triad
+15.696689411000028  [0, 4, 9]  A-minor triad
+15.789569230000028  [0, 4, 9]  A-minor triad
+15.882449049000028  [0, 4, 9]  A-minor triad
+15.975328868000028  [0, 4, 9]  A-minor triad
+16.068208687000027  [0, 4, 9]  A-minor triad
+16.161088506000027  [0, 4, 9]  A-minor triad
+16.253968325000027  [0, 4, 9]  A-minor triad
+16.346848144000028  [0, 4]  C-interval class 4
+16.439727963000028  [0, 4]  C-interval class 4
+16.532607782000028  [0, 4]  C-interval class 4
+16.625487601000028  [0, 4, 7]  C-major triad
+16.71836742000003  [0, 4, 7]  C-major triad
+16.81124723900003  [0, 4, 7]  C-major triad
+16.90412705800003  [0, 4, 7]  C-major triad
+16.99700687700003  [0, 4, 7]  C-major triad
+17.08988669600003  [0, 4, 7]  C-major triad
+17.18276651500003  [0, 4, 7]  C-major triad
+17.27564633400003  [0, 4, 7]  C-major triad
+17.36852615300003  [0, 4, 7]  C-major triad
+17.46140597200003  [0, 4, 7]  C-major triad
+17.55428579100003  [0, 4, 7]  C-major triad
+17.64716561000003  [0, 4, 7]  C-major triad
+17.74004542900003  [0, 4, 7]  C-major triad
+17.83292524800003  [0, 4, 7]  C-major triad
+17.92580506700003  [0, 4, 7]  C-major triad
+18.01868488600003  [0, 4, 7]  C-major triad
+18.11156470500003  [0, 4, 7]  C-major triad
+18.20444452400003  [0, 4, 7]  C-major triad
+18.29732434300003  [0, 4, 7]  C-major triad
+18.390204162000032  [0, 4, 7]  C-major triad
+18.483083981000032  [0, 4, 7]  C-major triad
+18.575963800000032  [0, 4, 7]  C-major triad
+18.668843619000032  [2, 7, 11]  G-major triad
+18.761723438000033  [2, 7, 11]  G-major triad
+18.854603257000033  [2, 7, 11]  G-major triad
+18.947483076000033  [2, 7, 11]  G-major triad
+19.040362895000033  [2, 7, 11]  G-major triad
+19.133242714000033  [2, 7, 11]  G-major triad
+19.226122533000034  [2, 7, 11]  G-major triad
+19.319002352000034  [2, 7, 11]  G-major triad
+19.411882171000034  [2, 7, 11]  G-major triad
+19.504761990000034  [2, 7, 11]  G-major triad
+19.597641809000034  [2, 7, 11]  G-major triad
+19.690521628000035  [2, 7, 11]  G-major triad
+19.783401447000035  [2, 4, 7, 11]  E-minor seventh chord
+19.876281266000035  [4, 7, 11]  E-minor triad
+19.969161085000035  [4, 11]  E-interval class 5
+20.062040904000035  [4, 11]  E-interval class 5
+20.154920723000036  [4, 9]  A-interval class 5
+20.247800542000036  [4, 9]  A-interval class 5
+20.340680361000036  [4, 9]  A-interval class 5
+20.433560180000036  [4, 9]  A-interval class 5
+20.526439999000036  [4, 9]  A-interval class 5
+20.619319818000037  [4, 9]  A-interval class 5
+20.712199637000037  [4, 9]  A-interval class 5
+20.805079456000037  [4, 9]  A-interval class 5
+20.897959275000037  [4, 9]  A-interval class 5
+20.990839094000037  [4, 9]  A-interval class 5
+21.083718913000038  [4, 9]  A-interval class 5
+21.176598732000038  [4, 9]  A-interval class 5
+21.269478551000038  [4, 9]  A-interval class 5
+21.362358370000038  [4, 9]  A-interval class 5
+21.45523818900004  [4, 9]  A-interval class 5
+21.54811800800004  [4, 9]  A-interval class 5
+21.64099782700004  [4, 9]  A-interval class 5
+21.73387764600004  [4, 9]  A-interval class 5
+21.82675746500004  [9]  A-unison
+21.91963728400004  [2, 9]  D-interval class 5
+22.01251710300004  [2, 9]  D-interval class 5
+22.10539692200004  [2, 9]  D-interval class 5
+22.19827674100004  [2, 9]  D-interval class 5
+22.29115656000004  [2, 9]  D-interval class 5
+22.38403637900004  [2, 9, 11]  B-incomplete minor-seventh chord
+22.47691619800004  [2, 11]  B-interval class 3
+22.56979601700004  [2, 11]  B-interval class 3
+22.66267583600004  [2, 7, 11]  G-major triad
+22.75555565500004  [2, 7, 11]  G-major triad
+22.84843547400004  [2, 7, 11]  G-major triad
+22.94131529300004  [2, 7, 11]  G-major triad
+23.03419511200004  [2, 7, 11]  G-major triad
+23.127074931000042  [2, 7, 11]  G-major triad
+23.219954750000042  [2, 7, 11]  G-major triad
+23.312834569000042  [2, 7, 11]  G-major triad
+23.405714388000042  [2, 7, 11]  G-major triad
+23.498594207000043  [2, 7, 11]  G-major triad
+23.591474026000043  [2, 7, 11]  G-major triad
+23.684353845000043  [2, 7, 11]  G-major triad
+23.777233664000043  [2, 7, 11]  G-major triad
+23.870113483000043  [2, 7, 11]  G-major triad
+23.962993302000044  [2, 7, 11]  G-major triad
+24.055873121000044  [2, 7, 11]  G-major triad
+24.148752940000044  [2, 7, 11]  G-major triad
+24.241632759000044  [2, 7, 11]  G-major triad
+24.334512578000044  [2, 7, 11]  G-major triad
+24.427392397000045  [2, 7, 11]  G-major triad
+24.520272216000045  [2, 7, 11]  G-major triad
+24.613152035000045  [2, 7, 11]  G-major triad
+24.706031854000045  [2, 7, 11]  G-major triad
+24.798911673000045  [2, 7, 11]  G-major triad
+24.891791492000046  [2, 7, 11]  G-major triad
+24.984671311000046  [2, 7, 11]  G-major triad
+25.077551130000046  [2, 7, 11]  G-major triad
+25.170430949000046  [2, 7, 11]  G-major triad
+25.263310768000046  [2, 7]  G-interval class 5
+25.356190587000047  [2, 7]  G-interval class 5
+25.449070406000047  [2, 7]  G-interval class 5
+25.541950225000047  [2, 9]  D-interval class 5
+25.634830044000047  [2, 9]  D-interval class 5
+25.727709863000047  [9]  A-unison
+25.820589682000048  [9]  A-unison
+25.913469501000048  [2, 9]  D-interval class 5
+26.006349320000048  [2, 9]  D-interval class 5
+26.099229139000048  [2, 9]  D-interval class 5
+26.19210895800005  [2, 9]  D-interval class 5
+26.28498877700005  [2, 9]  D-interval class 5
+26.37786859600005  [2, 9]  D-interval class 5
+26.47074841500005  [2, 9]  D-interval class 5
+26.56362823400005  [2, 9]  D-interval class 5
+26.65650805300005  [2, 9]  D-interval class 5
+26.74938787200005  [2, 9]  D-interval class 5
+26.84226769100005  [2, 9]  D-interval class 5
+26.93514751000005  [2, 9]  D-interval class 5
+27.02802732900005  [2, 9]  D-interval class 5
+27.12090714800005  [2, 9]  D-interval class 5
+27.21378696700005  [2, 7, 9]  G-quartal trichord
+27.30666678600005  [2, 7]  G-interval class 5
+27.39954660500005  [2, 7, 11]  G-major triad
+27.49242642400005  [2, 7, 11]  G-major triad
+27.58530624300005  [2, 7, 11]  G-major triad
+27.67818606200005  [2, 7, 11]  G-major triad
+27.77106588100005  [2, 7, 11]  G-major triad
+27.863945700000052  [2, 7, 11]  G-major triad
+27.956825519000052  [2, 7, 11]  G-major triad
+28.049705338000052  [2, 7, 11]  G-major triad
+28.142585157000052  [2, 7, 11]  G-major triad
+28.235464976000053  [2, 7, 11]  G-major triad
+28.328344795000053  [2, 7, 11]  G-major triad
+28.421224614000053  [2, 7, 11]  G-major triad
+28.514104433000053  [2, 7, 11]  G-major triad
+28.606984252000053  [2, 7, 11]  G-major triad
+28.699864071000054  [2, 7, 11]  G-major triad
+28.792743890000054  [2, 7, 11]  G-major triad
+28.885623709000054  [2, 7, 11]  G-major triad
+28.978503528000054  [2, 7, 11]  G-major triad
+29.071383347000054  [2, 7, 11]  G-major triad
+29.164263166000055  [2, 7, 11]  G-major triad
+29.257142985000055  [2, 7, 11]  G-major triad
+29.350022804000055  [2, 7, 11]  G-major triad
+29.442902623000055  [2, 7, 11]  G-major triad
+29.535782442000055  [2, 7, 11]  G-major triad
+29.628662261000056  [2, 7, 11]  G-major triad
+29.721542080000056  [2, 7, 11]  G-major triad
+29.814421899000056  [2, 7, 11]  G-major triad
+29.907301718000056  [2, 7, 11]  G-major triad
+30.000181537000056  [2, 7, 11]  G-major triad
+30.093061356000057  [2, 7, 11]  G-major triad
+30.185941175000057  [2, 7, 11]  G-major triad
+30.278820994000057  [2, 7, 11]  G-major triad
+30.371700813000057  [2, 7, 11]  G-major triad
+30.464580632000057  [2, 7, 11]  G-major triad
+30.557460451000058  [2, 7, 11]  G-major triad
+30.650340270000058  [2, 7, 11]  G-major triad
+30.743220089000058  [2, 7, 11]  G-major triad
+30.836099908000058  [2, 7, 11]  G-major triad
+30.92897972700006  [2, 7, 11]  G-major triad
+31.02185954600006  [2, 7, 11]  G-major triad
+31.11473936500006  [2, 7, 11]  G-major triad
+31.20761918400006  [2, 7, 11]  G-major triad
+31.30049900300006  [2, 7, 11]  G-major triad
+31.39337882200006  [2, 7, 11]  G-major triad
+31.48625864100006  [2, 7, 11]  G-major triad
+31.57913846000006  [2, 7, 11]  G-major triad
+31.67201827900006  [2, 7, 11]  G-major triad
+31.76489809800006  [2, 7, 11]  G-major triad
+31.85777791700006  [2, 7, 11]  G-major triad
+31.95065773600006  [2, 7, 11]  G-major triad
+32.04353755500006  [2, 7, 11]  G-major triad
+32.136417374000054  [2, 7, 11]  G-major triad
+32.22929719300005  [2, 7, 11]  G-major triad
+32.32217701200005  [2, 7, 11]  G-major triad
+32.415056831000044  [2, 7, 11]  G-major triad
+32.50793665000004  [2, 7, 11]  G-major triad
+32.60081646900004  [2, 7, 11]  G-major triad
+32.693696288000034  [2, 7, 11]  G-major triad
+32.78657610700003  [2, 7, 11]  G-major triad
+32.87945592600003  [2, 7, 11]  G-major triad
+32.972335745000024  [2, 7, 11]  G-major triad
+33.06521556400002  [2, 7, 11]  G-major triad
+33.15809538300002  [2, 7, 11]  G-major triad
+33.250975202000014  [2, 7, 11]  G-major triad
+33.34385502100001  [2, 7, 11]  G-major triad
+33.43673484000001  [2, 7, 11]  G-major triad
+33.529614659  [2, 7, 11]  G-major triad
+33.622494478  [2, 7, 11]  G-major triad
+33.715374297  [2, 7, 11]  G-major triad
+33.80825411599999  [2, 7, 11]  G-major triad
+33.90113393499999  [2, 7, 11]  G-major triad
+33.99401375399999  [2, 7, 11]  G-major triad
+34.08689357299998  [2, 7, 11]  G-major triad
+34.17977339199998  [2, 7, 11]  G-major triad
+34.27265321099998  [2, 7, 11]  G-major triad
+34.36553302999997  [2, 7, 11]  G-major triad
+34.45841284899997  [2, 7, 11]  G-major triad
+34.55129266799997  [2, 7, 9]  G-quartal trichord
+34.64417248699996  [2, 7, 9]  G-quartal trichord
+34.73705230599996  [2, 7, 9]  G-quartal trichord
+34.82993212499996  [2, 7, 9]  G-quartal trichord
+34.92281194399995  [2, 9]  D-interval class 5
+35.01569176299995  [2, 9]  D-interval class 5
+35.108571581999946  [2, 9]  D-interval class 5
+35.20145140099994  [2, 9]  D-interval class 5
+35.29433121999994  [2, 9]  D-interval class 5
+35.387211038999936  [2, 9]  D-interval class 5
+35.48009085799993  [2, 9]  D-interval class 5
+35.57297067699993  [9]  A-unison
+35.665850495999926  [9]  A-unison
+35.75873031499992  [9]  A-unison
+35.85161013399992  [4, 9]  A-interval class 5
+35.944489952999916  [4, 9]  A-interval class 5
+36.03736977199991  [4, 7, 9]  A-incomplete dominant-seventh chord
+36.13024959099991  [4, 7, 9]  A-incomplete dominant-seventh chord
+36.223129409999906  [4, 7, 9]  A-incomplete dominant-seventh chord
+36.3160092289999  [4, 7, 11]  E-minor triad
+36.4088890479999  [4, 7, 11]  E-minor triad
+36.501768866999896  [4, 7, 11]  E-minor triad
+36.59464868599989  [4, 7, 11]  E-minor triad
+36.68752850499989  [4, 7, 11]  E-minor triad
+36.780408323999886  [4, 7, 11]  E-minor triad
+36.87328814299988  [4, 7, 11]  E-minor triad
+36.96616796199988  [4, 7, 11]  E-minor triad
+37.059047780999876  [4, 7, 11]  E-minor triad
+37.15192759999987  [4, 7, 11]  E-minor triad
+37.24480741899987  [0, 0, 0]  No_Chord
+37.337687237999866  [0, 0, 0]  No_Chord
+37.43056705699986  [0, 0, 0]  No_Chord
+37.52344687599986  [0, 0, 0]  No_Chord
+37.616326694999856  [0, 0, 0]  No_Chord
+37.70920651399985  [0, 0, 0]  No_Chord
+37.80208633299985  [0, 0, 0]  No_Chord
+37.894966151999846  [0, 0, 0]  No_Chord
+37.98784597099984  [0, 0, 0]  No_Chord
+38.08072578999984  [0, 0, 0]  No_Chord
+38.173605608999836  [0, 0, 0]  No_Chord
+38.26648542799983  [0, 0, 0]  No_Chord
+38.35936524699983  [0, 0, 0]  No_Chord
+38.452245065999826  [0, 0, 0]  No_Chord
+38.54512488499982  [0, 0, 0]  No_Chord
+38.63800470399982  [0, 0, 0]  No_Chord
+38.730884522999816  [0, 0, 0]  No_Chord
+38.82376434199981  [0, 0, 0]  No_Chord
+38.91664416099981  [0, 0, 0]  No_Chord
+39.009523979999805  [2]  D-unison
+39.1024037989998  [2]  D-unison
+39.1952836179998  [2]  D-unison
+39.288163436999795  [2]  D-unison
+39.38104325599979  [2]  D-unison
+39.47392307499979  [2]  D-unison
+39.566802893999785  [2]  D-unison
+39.65968271299978  [2]  D-unison
+39.75256253199978  [2]  D-unison
+39.845442350999775  [2]  D-unison
+39.93832216999977  [2]  D-unison
+40.03120198899977  [0, 0, 0]  No_Chord
+40.124081807999765  [0, 4, 7]  C-major triad
+40.21696162699976  [0, 4, 7]  C-major triad
+40.30984144599976  [0, 4, 7]  C-major triad
+40.402721264999755  [0, 4, 7]  C-major triad
+40.49560108399975  [0, 4, 7]  C-major triad
+40.58848090299975  [0, 4, 7]  C-major triad
+40.681360721999745  [0, 4, 7]  C-major triad
+40.77424054099974  [0, 4, 7]  C-major triad
+40.86712035999974  [0, 4, 7]  C-major triad
+40.960000178999735  [0, 4, 7]  C-major triad
+41.05287999799973  [0, 4, 7]  C-major triad
+41.14575981699973  [0, 4, 7]  C-major triad
+41.238639635999725  [0, 4, 7]  C-major triad
+41.33151945499972  [0, 4, 7]  C-major triad
+41.42439927399972  [0, 4, 7]  C-major triad
+41.517279092999715  [0, 4, 7]  C-major triad
+41.61015891199971  [0, 4, 7]  C-major triad
+41.70303873099971  [0, 4, 7]  C-major triad
+41.795918549999705  [0, 4, 7]  C-major triad
+41.8887983689997  [0, 7]  C-interval class 5
+41.9816781879997  [0, 7]  C-interval class 5
+42.074558006999695  [0, 7]  C-interval class 5
+42.16743782599969  [0, 7]  C-interval class 5
+42.26031764499969  [0, 7]  C-interval class 5
+42.353197463999685  [2, 7, 11]  G-major triad
+42.44607728299968  [2, 7, 11]  G-major triad
+42.53895710199968  [2, 7, 11]  G-major triad
+42.631836920999675  [2, 7, 11]  G-major triad
+42.72471673999967  [2, 7, 11]  G-major triad
+42.81759655899967  [2, 7, 11]  G-major triad
+42.910476377999665  [2, 7, 11]  G-major triad
+43.00335619699966  [2, 7, 11]  G-major triad
+43.09623601599966  [2, 7, 11]  G-major triad
+43.189115834999654  [2, 7, 11]  G-major triad
+43.28199565399965  [2, 7, 11]  G-major triad
+43.37487547299965  [2, 7, 11]  G-major triad
+43.467755291999644  [2, 7, 11]  G-major triad
+43.56063511099964  [2, 7, 11]  G-major triad
+43.65351492999964  [2, 7, 11]  G-major triad
+43.746394748999634  [2, 7, 11]  G-major triad
+43.83927456799963  [2, 7, 11]  G-major triad
+43.93215438699963  [4, 7, 11]  E-minor triad
+44.025034205999624  [4, 7]  E-interval class 3
+44.11791402499962  [4]  E-unison
+44.21079384399962  [4]  E-unison
+44.303673662999614  [4]  E-unison
+44.39655348199961  [4]  E-unison
+44.48943330099961  [4]  E-unison
+44.582313119999604  [4, 9]  A-interval class 5
+44.6751929389996  [4, 9]  A-interval class 5
+44.7680727579996  [4, 9]  A-interval class 5
+44.860952576999594  [4, 9]  A-interval class 5
+44.95383239599959  [4, 9]  A-interval class 5
+45.04671221499959  [4, 9]  A-interval class 5
+45.139592033999584  [2, 4, 9]  D-quartal trichord
+45.23247185299958  [2, 4, 9]  D-quartal trichord
+45.32535167199958  [2, 4, 9]  D-quartal trichord
+45.418231490999574  [2, 9]  D-interval class 5
+45.51111130999957  [2, 9]  D-interval class 5
+45.60399112899957  [2, 9]  D-interval class 5
+45.696870947999564  [2, 9]  D-interval class 5
+45.78975076699956  [2, 9]  D-interval class 5
+45.88263058599956  [2, 9]  D-interval class 5
+45.975510404999554  [2, 9]  D-interval class 5
+46.06839022399955  [2, 9]  D-interval class 5
+46.16127004299955  [2, 9]  D-interval class 5
+46.254149861999544  [2, 9, 11]  B-incomplete minor-seventh chord
+46.34702968099954  [2, 9, 11]  B-incomplete minor-seventh chord
+46.43990949999954  [2, 7, 11]  G-major triad
+46.532789318999534  [2, 7, 11]  G-major triad
+46.62566913799953  [2, 7, 11]  G-major triad
+46.71854895699953  [2, 7, 11]  G-major triad
+46.811428775999524  [2, 7, 11]  G-major triad
+46.90430859499952  [2, 7, 11]  G-major triad
+46.99718841399952  [2, 7, 11]  G-major triad
+47.09006823299951  [2, 7, 11]  G-major triad
+47.18294805199951  [2, 7, 11]  G-major triad
+47.27582787099951  [2, 7, 11]  G-major triad
+47.3687076899995  [2, 7, 11]  G-major triad
+47.4615875089995  [2, 7, 11]  G-major triad
+47.5544673279995  [2, 7, 11]  G-major triad
+47.64734714699949  [2, 7, 11]  G-major triad
+47.74022696599949  [2, 7, 11]  G-major triad
+47.83310678499949  [2, 7, 11]  G-major triad
+47.92598660399948  [2, 7, 11]  G-major triad
+48.01886642299948  [2, 7, 11]  G-major triad
+48.11174624199948  [2, 7, 11]  G-major triad
+48.20462606099947  [2, 7, 11]  G-major triad
+48.29750587999947  [2, 7, 11]  G-major triad
+48.39038569899947  [2, 7, 11]  G-major triad
+48.48326551799946  [2, 7, 11]  G-major triad
+48.57614533699946  [2, 7, 11]  G-major triad
+48.669025155999456  [2, 7, 11]  G-major triad
+48.76190497499945  [2, 7, 11]  G-major triad
+48.85478479399945  [2, 7, 11]  G-major triad
+48.947664612999446  [2, 7, 11]  G-major triad
+49.04054443199944  [2, 7, 11]  G-major triad
+49.13342425099944  [2, 7, 11]  G-major triad
+49.226304069999436  [2, 7, 11]  G-major triad
+49.31918388899943  [2, 7, 11]  G-major triad
+49.41206370799943  [2, 7, 11]  G-major triad
+49.504943526999426  [2, 7, 11]  G-major triad
+49.59782334599942  [2, 7, 11]  G-major triad
+49.69070316499942  [2, 4, 7, 11]  E-minor seventh chord
+49.783582983999416  [2, 4, 7, 11]  E-minor seventh chord
+49.87646280299941  [2, 7, 11]  G-major triad
+49.96934262199941  [2, 7, 11]  G-major triad
+50.062222440999406  [2, 7, 11]  G-major triad
+50.1551022599994  [2, 7, 11]  G-major triad
+50.2479820789994  [2, 7, 11]  G-major triad
+50.340861897999396  [2, 7, 11]  G-major triad
+50.43374171699939  [2, 7, 11]  G-major triad
+50.52662153599939  [2, 7, 11]  G-major triad
+50.619501354999386  [2, 7, 11]  G-major triad
+50.71238117399938  [0, 2, 4, 7, 11]  C-major-ninth chord
+50.80526099299938  [0, 2, 4, 7, 11]  C-major-ninth chord
+50.898140811999376  [0, 2, 4, 7, 11]  C-major-ninth chord
+50.99102063099937  [0, 2, 4, 7]  C-major-second major tetrachord
+51.08390044999937  [0, 4, 7]  C-major triad
+51.176780268999366  [0, 4, 7]  C-major triad
+51.26966008799936  [0, 4, 7]  C-major triad
+51.36253990699936  [0, 4, 7]  C-major triad
+51.455419725999356  [0, 4, 7]  C-major triad
+51.54829954499935  [0, 4, 7]  C-major triad
+51.64117936399935  [0, 4, 7]  C-major triad
+51.734059182999346  [0, 4, 7]  C-major triad
+51.82693900199934  [0, 4, 7]  C-major triad
+51.91981882099934  [0, 4, 7]  C-major triad
+52.012698639999336  [0, 4, 7]  C-major triad
+52.10557845899933  [0, 4, 7]  C-major triad
+52.19845827799933  [0, 4, 7]  C-major triad
+52.291338096999326  [0, 4, 7]  C-major triad
+52.38421791599932  [0, 4, 7]  C-major triad
+52.47709773499932  [0, 4, 7]  C-major triad
+52.569977553999315  [0, 4, 7]  C-major triad
+52.66285737299931  [0, 4, 7]  C-major triad
+52.75573719199931  [0, 4, 7]  C-major triad
+52.848617010999305  [0, 4, 7]  C-major triad
+52.9414968299993  [0, 4, 7]  C-major triad
+53.0343766489993  [0, 4, 7]  C-major triad
+53.127256467999295  [0, 4, 7]  C-major triad
+53.22013628699929  [0, 4, 7]  C-major triad
+53.31301610599929  [0, 4, 7]  C-major triad
+53.405895924999285  [0, 4, 7]  C-major triad
+53.49877574399928  [0, 4, 7]  C-major triad
+53.59165556299928  [0, 4, 7]  C-major triad
+53.684535381999275  [0, 4, 7]  C-major triad
+53.77741520099927  [0, 4, 7]  C-major triad
+53.87029501999927  [0, 4, 7]  C-major triad
+53.963174838999265  [0, 4, 7]  C-major triad
+54.05605465799926  [0, 4, 7]  C-major triad
+54.14893447699926  [0, 4, 7]  C-major triad
+54.241814295999255  [0, 4, 7]  C-major triad
+54.33469411499925  [0, 4, 7]  C-major triad
+54.42757393399925  [0, 4, 7]  C-major triad
+54.520453752999245  [0, 4, 7]  C-major triad
+54.61333357199924  [0, 4, 7]  C-major triad
+54.70621339099924  [0, 4, 7]  C-major triad
+54.799093209999235  [0, 4, 7]  C-major triad
+54.89197302899923  [0, 4, 7]  C-major triad
+54.98485284799923  [0, 4, 7]  C-major triad
+55.077732666999225  [0, 4, 7]  C-major triad
+55.17061248599922  [0, 4, 7]  C-major triad
+55.26349230499922  [0, 4, 7]  C-major triad
+55.356372123999215  [0, 4, 7]  C-major triad
+55.44925194299921  [0, 4, 7, 11]  C-major seventh chord
+55.54213176199921  [0, 4, 7, 11]  C-major seventh chord
+55.635011580999205  [0, 4, 7, 11]  C-major seventh chord
+55.7278913999992  [0, 4, 7]  C-major triad
+55.8207712189992  [2, 7, 11]  G-major triad
+55.913651037999195  [2, 7, 11]  G-major triad
+56.00653085699919  [2, 7, 11]  G-major triad
+56.09941067599919  [2, 7, 11]  G-major triad
+56.192290494999185  [2, 7, 11]  G-major triad
+56.28517031399918  [2, 7, 11]  G-major triad
+56.37805013299918  [2, 4, 11]  E-incomplete dominant-seventh chord
+56.470929951999175  [4]  E-unison
+56.56380977099917  [4, 9]  A-interval class 5
+56.65668958999917  [4, 9]  A-interval class 5
+56.749569408999164  [1, 4, 9]  A-major triad
+56.84244922799916  [1, 4, 9]  A-major triad
+56.93532904699916  [1, 4, 9]  A-major triad
+57.028208865999154  [1, 4, 9]  A-major triad
+57.12108868499915  [1, 4, 9]  A-major triad
+57.21396850399915  [1, 4, 9]  A-major triad
+57.306848322999144  [1, 4, 9]  A-major triad
+57.39972814199914  [1, 4, 9]  A-major triad
+57.49260796099914  [1, 4, 9]  A-major triad
+57.585487779999134  [1, 4, 9]  A-major triad
+57.67836759899913  [4, 9]  A-interval class 5
+57.77124741799913  [4, 9]  A-interval class 5
+57.864127236999124  [4, 9]  A-interval class 5
+57.95700705599912  [9]  A-unison
+58.04988687499912  [9]  A-unison
+58.142766693999114  [9]  A-unison
+58.23564651299911  [2, 9]  D-interval class 5
+58.32852633199911  [2, 9]  D-interval class 5
+58.421406150999104  [2, 9]  D-interval class 5
+58.5142859699991  [2, 9]  D-interval class 5
+58.6071657889991  [2, 9]  D-interval class 5
+58.700045607999094  [2, 9]  D-interval class 5
+58.79292542699909  [2, 9]  D-interval class 5
+58.88580524599909  [2, 9]  D-interval class 5
+58.978685064999084  [2, 9]  D-interval class 5
+59.07156488399908  [2, 11]  B-interval class 3
+59.16444470299908  [2, 7, 11]  G-major triad
+59.257324521999074  [2, 7, 11]  G-major triad
+59.35020434099907  [2, 7, 11]  G-major triad
+59.44308415999907  [2, 7, 11]  G-major triad
+59.535963978999064  [2, 7, 11]  G-major triad
+59.62884379799906  [2, 7, 11]  G-major triad
+59.72172361699906  [2, 7, 11]  G-major triad
+59.814603435999054  [2, 7, 11]  G-major triad
+59.90748325499905  [2, 7, 11]  G-major triad
+60.00036307399905  [2, 7, 11]  G-major triad
+60.093242892999044  [2, 7, 11]  G-major triad
+60.18612271199904  [2, 7, 11]  G-major triad
+60.27900253099904  [2, 7, 11]  G-major triad
+60.371882349999034  [2, 7, 11]  G-major triad
+60.46476216899903  [2, 7, 11]  G-major triad
+60.55764198799903  [2, 7, 11]  G-major triad
+60.65052180699902  [2, 7, 11]  G-major triad
+60.74340162599902  [2, 7, 11]  G-major triad
+60.83628144499902  [2, 7, 11]  G-major triad
+60.92916126399901  [2, 7, 11]  G-major triad
+61.02204108299901  [2, 7, 11]  G-major triad
+61.11492090199901  [2, 7, 11]  G-major triad
+61.207800720999  [2, 7, 11]  G-major triad
+61.300680539999  [2, 7, 11]  G-major triad
+61.393560358999  [2, 7, 11]  G-major triad
+61.48644017799899  [2, 7, 11]  G-major triad
+61.57931999699899  [2, 7, 11]  G-major triad
+61.67219981599899  [2, 7, 11]  G-major triad
+61.76507963499898  [2, 7, 11]  G-major triad
+61.85795945399898  [2, 7, 11]  G-major triad
+61.95083927299898  [2, 7, 11]  G-major triad
+62.04371909199897  [2, 7, 11]  G-major triad
+62.13659891099897  [2, 7, 11]  G-major triad
+62.22947872999897  [2, 7, 11]  G-major triad
+62.32235854899896  [2, 7, 11]  G-major triad
+62.41523836799896  [2, 7, 11]  G-major triad
+62.508118186998956  [2, 7, 11]  G-major triad
+62.60099800599895  [2, 7, 11]  G-major triad
+62.69387782499895  [2, 7, 11]  G-major triad
+62.786757643998946  [2, 7, 11]  G-major triad
+62.87963746299894  [2, 7, 11]  G-major triad
+62.97251728199894  [2, 7, 11]  G-major triad
+63.065397100998936  [2, 7, 11]  G-major triad
+63.15827691999893  [2, 7, 11]  G-major triad
+63.25115673899893  [2, 7, 11]  G-major triad
+63.344036557998926  [2, 7, 11]  G-major triad
+63.43691637699892  [2, 7, 11]  G-major triad
+63.52979619599892  [2, 7, 11]  G-major triad
+63.622676014998916  [2, 7, 11]  G-major triad
+63.71555583399891  [2, 7, 11]  G-major triad
+63.80843565299891  [2, 7, 11]  G-major triad
+63.901315471998906  [2, 7, 11]  G-major triad
+63.9941952909989  [2, 7, 11]  G-major triad
+64.0870751099989  [2, 7, 11]  G-major triad
+64.17995492899891  [2, 7, 11]  G-major triad
+64.27283474799891  [2, 7, 11]  G-major triad
+64.36571456699892  [2, 7, 11]  G-major triad
+64.45859438599892  [2, 7, 11]  G-major triad
+64.55147420499893  [2, 7, 11]  G-major triad
+64.64435402399893  [2, 7, 11]  G-major triad
+64.73723384299893  [2, 7, 11]  G-major triad
+64.83011366199894  [2, 7, 11]  G-major triad
+64.92299348099894  [2, 7, 11]  G-major triad
+65.01587329999894  [2, 7, 11]  G-major triad
+65.10875311899895  [2, 4, 9]  D-quartal trichord
+65.20163293799895  [2, 4, 9, 11]  B-quartal tetramirror
+65.29451275699896  [4, 9, 11]  A-quartal trichord
+65.38739257599896  [4, 9]  A-interval class 5
+65.48027239499896  [4, 9]  A-interval class 5
+65.57315221399897  [4, 9]  A-interval class 5
+65.66603203299897  [4, 9]  A-interval class 5
+65.75891185199897  [4, 9]  A-interval class 5
+65.85179167099898  [4, 9]  A-interval class 5
+65.94467148999898  [4, 9, 11]  A-quartal trichord
+66.03755130899899  [4, 11]  E-interval class 5
+66.13043112799899  [4, 11]  E-interval class 5
+66.22331094699899  [4, 11]  E-interval class 5
+66.316190765999  [4, 11]  E-interval class 5
+66.409070584999  [4, 11]  E-interval class 5
+66.501950403999  [4, 11]  E-interval class 5
+66.59483022299901  [4, 11]  E-interval class 5
+66.68771004199901  [4, 11]  E-interval class 5
+66.78058986099902  [4, 11]  E-interval class 5
+66.87346967999902  [4, 11]  E-interval class 5
+66.96634949899902  [4, 11]  E-interval class 5
+67.05922931799903  [4, 11]  E-interval class 5
+67.15210913699903  [4, 11]  E-interval class 5
+67.24498895599903  [4, 11]  E-interval class 5
+67.33786877499904  [4, 11]  E-interval class 5
+67.43074859399904  [4, 11]  E-interval class 5
+67.52362841299905  [4, 11]  E-interval class 5
+67.61650823199905  [4, 11]  E-interval class 5
+67.70938805099905  [4, 11]  E-interval class 5
+67.80226786999906  [4, 11]  E-interval class 5
+67.89514768899906  [4, 11]  E-interval class 5
+67.98802750799906  [4, 11]  E-interval class 5
+68.08090732699907  [4, 11]  E-interval class 5
+68.17378714599907  [4, 11]  E-interval class 5
+68.26666696499908  [11]  B-unison
+68.35954678399908  [11]  B-unison
+68.45242660299908  [11]  B-unison
+68.54530642199909  [11]  B-unison
+68.63818624099909  [11]  B-unison
+68.7310660599991  [2, 11]  B-interval class 3
+68.8239458789991  [2, 11]  B-interval class 3
+68.9168256979991  [2, 11]  B-interval class 3
+69.0097055169991  [2, 11]  B-interval class 3
+69.10258533599911  [2, 7, 11]  G-major triad
+69.19546515499911  [2, 7, 11]  G-major triad
+69.28834497399912  [2, 7, 11]  G-major triad
+69.38122479299912  [2, 7, 11]  G-major triad
+69.47410461199912  [2, 7, 11]  G-major triad
+69.56698443099913  [7, 11]  G-interval class 4
+69.65986424999913  [4, 7, 11]  E-minor triad
+69.75274406899914  [4, 7, 11]  E-minor triad
+69.84562388799914  [4, 7, 11]  E-minor triad
+69.93850370699914  [0, 4, 7]  C-major triad
+70.03138352599915  [0, 4, 7]  C-major triad
+70.12426334499915  [0, 4, 7]  C-major triad
+70.21714316399915  [0, 4, 7]  C-major triad
+70.31002298299916  [0, 4, 7]  C-major triad
+70.40290280199916  [0, 4, 7]  C-major triad
+70.49578262099917  [0, 4, 7]  C-major triad
+70.58866243999917  [0, 4, 7]  C-major triad
+70.68154225899917  [0, 4, 7]  C-major triad
+70.77442207799918  [0, 4, 7]  C-major triad
+70.86730189699918  [0, 4, 7]  C-major triad
+70.96018171599918  [0, 4, 7]  C-major triad
+71.05306153499919  [0, 4, 7]  C-major triad
+71.14594135399919  [0, 4, 7]  C-major triad
+71.2388211729992  [0, 4, 7]  C-major triad
+71.3317009919992  [0, 4, 7]  C-major triad
+71.4245808109992  [0, 4, 7]  C-major triad
+71.5174606299992  [0, 4, 7]  C-major triad
+71.61034044899921  [0, 4, 7]  C-major triad
+71.70322026799921  [0, 4, 7]  C-major triad
+71.79610008699922  [0, 4, 7]  C-major triad
+71.88897990599922  [0, 7]  C-interval class 5
+71.98185972499923  [0, 7]  C-interval class 5
+72.07473954399923  [0, 7]  C-interval class 5
+72.16761936299923  [0, 7]  C-interval class 5
+72.26049918199924  [0, 7]  C-interval class 5
+72.35337900099924  [0, 7]  C-interval class 5
+72.44625881999924  [7, 11]  G-interval class 4
+72.53913863899925  [2, 7, 11]  G-major triad
+72.63201845799925  [2, 7, 11]  G-major triad
+72.72489827699926  [2, 7, 11]  G-major triad
+72.81777809599926  [2, 7, 11]  G-major triad
+72.91065791499926  [2, 7, 11]  G-major triad
+73.00353773399927  [2, 7, 11]  G-major triad
+73.09641755299927  [2, 7, 11]  G-major triad
+73.18929737199927  [2, 7, 11]  G-major triad
+73.28217719099928  [2, 7, 11]  G-major triad
+73.37505700999928  [2, 7, 11]  G-major triad
+73.46793682899929  [2, 7, 11]  G-major triad
+73.56081664799929  [2, 7, 11]  G-major triad
+73.65369646699929  [2, 7, 11]  G-major triad
+73.7465762859993  [2, 7, 11]  G-major triad
+73.8394561049993  [2, 7, 11]  G-major triad
+73.9323359239993  [2, 4, 7, 11]  E-minor seventh chord
+74.02521574299931  [4, 7, 11]  E-minor triad
+74.11809556199931  [4, 7, 11]  E-minor triad
+74.21097538099932  [4, 7, 11]  E-minor triad
+74.30385519999932  [4, 7, 11]  E-minor triad
+74.39673501899932  [0, 4, 9]  A-minor triad
+74.48961483799933  [0, 4, 9]  A-minor triad
+74.58249465699933  [0, 4, 9]  A-minor triad
+74.67537447599933  [0, 4, 9]  A-minor triad
+74.76825429499934  [0, 4, 9]  A-minor triad
+74.86113411399934  [0, 4, 9]  A-minor triad
+74.95401393299935  [0, 4, 9]  A-minor triad
+75.04689375199935  [0, 4, 9]  A-minor triad
+75.13977357099935  [0, 4, 9]  A-minor triad
+75.23265338999936  [0, 4, 9]  A-minor triad
+75.32553320899936  [4, 9]  A-interval class 5
+75.41841302799936  [4, 9]  A-interval class 5
+75.51129284699937  [4, 9]  A-interval class 5
+75.60417266599937  [4, 9]  A-interval class 5
+75.69705248499938  [9]  A-unison
+75.78993230399938  [9]  A-unison
+75.88281212299938  [9]  A-unison
+75.97569194199939  [9]  A-unison
+76.06857176099939  [9]  A-unison
+76.1614515799994  [9]  A-unison
+76.2543313989994  [9]  A-unison
+76.3472112179994  [9]  A-unison
+76.4400910369994  [2]  D-unison
+76.53297085599941  [2, 11]  B-interval class 3
+76.62585067499941  [2, 7, 11]  G-major triad
+76.71873049399942  [2, 7, 11]  G-major triad
+76.81161031299942  [2, 7, 11]  G-major triad
+76.90449013199942  [2, 7, 11]  G-major triad
+76.99736995099943  [2, 7, 11]  G-major triad
+77.09024976999943  [2, 7, 11]  G-major triad
+77.18312958899944  [2, 7, 11]  G-major triad
+77.27600940799944  [2, 7, 11]  G-major triad
+77.36888922699944  [2, 7, 11]  G-major triad
+77.46176904599945  [2, 7, 11]  G-major triad
+77.55464886499945  [2, 7, 11]  G-major triad
+77.64752868399945  [2, 7, 11]  G-major triad
+77.74040850299946  [2, 7, 11]  G-major triad
+77.83328832199946  [2, 7, 11]  G-major triad
+77.92616814099947  [2, 7, 11]  G-major triad
+78.01904795999947  [2, 7, 11]  G-major triad
+78.11192777899947  [2, 7, 11]  G-major triad
+78.20480759799948  [2, 7, 11]  G-major triad
+78.29768741699948  [2, 7, 11]  G-major triad
+78.39056723599948  [2, 7, 11]  G-major triad
+78.48344705499949  [2, 7, 11]  G-major triad
+78.57632687399949  [2, 7, 11]  G-major triad
+78.6692066929995  [2, 7, 11]  G-major triad
+78.7620865119995  [2, 7, 11]  G-major triad
+78.8549663309995  [2, 7, 11]  G-major triad
+78.9478461499995  [2, 7, 11]  G-major triad
+79.04072596899951  [2, 7, 11]  G-major triad
+79.13360578799951  [2, 7, 11]  G-major triad
+79.22648560699952  [2, 7, 11]  G-major triad
+79.31936542599952  [2, 7, 11]  G-major triad
+79.41224524499953  [2, 7, 11]  G-major triad
+79.50512506399953  [2, 7, 11]  G-major triad
+79.59800488299953  [2, 7, 11]  G-major triad
+79.69088470199954  [2, 7, 11]  G-major triad
+79.78376452099954  [2, 7, 11]  G-major triad
+79.87664433999954  [2, 7, 11]  G-major triad
+79.96952415899955  [2, 7, 11]  G-major triad
+80.06240397799955  [2, 7, 11]  G-major triad
+80.15528379699956  [2, 7, 11]  G-major triad
+80.24816361599956  [2, 7, 11]  G-major triad
+80.34104343499956  [2, 7, 11]  G-major triad
+80.43392325399957  [2, 7, 11]  G-major triad
+80.52680307299957  [2, 7, 11]  G-major triad
+80.61968289199957  [2, 7, 11]  G-major triad
+80.71256271099958  [2, 7, 11]  G-major triad
+80.80544252999958  [2, 7, 11]  G-major triad
+80.89832234899959  [0, 2, 4, 7, 11]  C-major-ninth chord
+80.99120216799959  [0, 2, 4, 7, 11]  C-major-ninth chord
+81.08408198699959  [0, 2, 4, 7, 11]  C-major-ninth chord
+81.1769618059996  [0, 4, 7]  C-major triad
+81.2698416249996  [0, 4, 7]  C-major triad
+81.3627214439996  [0, 4, 7]  C-major triad
+81.45560126299961  [0, 4, 7]  C-major triad
+81.54848108199961  [0, 4, 7]  C-major triad
+81.64136090099962  [0, 4, 7]  C-major triad
+81.73424071999962  [0, 4, 7]  C-major triad
+81.82712053899962  [0, 4, 7]  C-major triad
+81.92000035799963  [0, 4, 7]  C-major triad
+82.01288017699963  [0, 4, 7]  C-major triad
+82.10575999599963  [0, 4, 7]  C-major triad
+82.19863981499964  [0, 4, 7]  C-major triad
+82.29151963399964  [0, 4, 7]  C-major triad
+82.38439945299965  [0, 4, 7]  C-major triad
+82.47727927199965  [0, 4, 7]  C-major triad
+82.57015909099965  [0, 4, 7]  C-major triad
+82.66303890999966  [0, 4, 7]  C-major triad
+82.75591872899966  [0, 4, 7]  C-major triad
+82.84879854799966  [0, 4, 7]  C-major triad
+82.94167836699967  [0, 4, 7]  C-major triad
+83.03455818599967  [0, 4, 7]  C-major triad
+83.12743800499968  [0, 4, 7]  C-major triad
+83.22031782399968  [0, 4, 7]  C-major triad
+83.31319764299968  [0, 4, 7]  C-major triad
+83.40607746199969  [0, 4, 7]  C-major triad
+83.49895728099969  [0, 4, 7]  C-major triad
+83.5918370999997  [0, 4, 7]  C-major triad
+83.6847169189997  [2]  D-unison
+83.7775967379997  [2]  D-unison
+83.8704765569997  [2, 7]  G-interval class 5
+83.96335637599971  [2, 7]  G-interval class 5
+84.05623619499971  [2, 7]  G-interval class 5
+84.14911601399972  [2, 7, 11]  G-major triad
+84.24199583299972  [2, 7, 11]  G-major triad
+84.33487565199972  [2, 7, 11]  G-major triad
+84.42775547099973  [2, 7, 11]  G-major triad
+84.52063528999973  [2, 7, 11]  G-major triad
+84.61351510899974  [2, 7, 11]  G-major triad
+84.70639492799974  [0, 2, 4, 7, 11]  C-major-ninth chord
+84.79927474699974  [0, 4, 7, 11]  C-major seventh chord
+84.89215456599975  [0, 4, 7]  C-major triad
+84.98503438499975  [0, 4, 7]  C-major triad
+85.07791420399975  [0, 4, 7]  C-major triad
+85.17079402299976  [0, 4, 7]  C-major triad
+85.26367384199976  [0, 4, 7, 11]  C-major seventh chord
+85.35655366099977  [0, 4, 7, 11]  C-major seventh chord
+85.44943347999977  [7, 11]  G-interval class 4
+85.54231329899977  [7, 11]  G-interval class 4
+85.63519311799978  [7, 11]  G-interval class 4
+85.72807293699978  [7, 11]  G-interval class 4
+85.82095275599978  [7, 11]  G-interval class 4
+85.91383257499979  [7, 11]  G-interval class 4
+86.00671239399979  [7, 11]  G-interval class 4
+86.0995922129998  [4, 7]  E-interval class 3
+86.1924720319998  [4, 7]  E-interval class 3
+86.2853518509998  [4, 7]  E-interval class 3
+86.3782316699998  [4, 7]  E-interval class 3
+86.47111148899981  [4, 7]  E-interval class 3
+86.56399130799981  [4, 7]  E-interval class 3
+86.65687112699982  [4]  E-unison
+86.74975094599982  [0, 4, 9]  A-minor triad
+86.84263076499983  [0, 4, 9]  A-minor triad
+86.93551058399983  [0, 4, 9]  A-minor triad
+87.02839040299983  [0, 4, 9]  A-minor triad
+87.12127022199984  [0, 4, 9]  A-minor triad
+87.21415004099984  [0, 4, 9]  A-minor triad
+87.30702985999984  [0, 4, 9]  A-minor triad
+87.39990967899985  [0, 4, 9]  A-minor triad
+87.49278949799985  [0, 4, 9]  A-minor triad
+87.58566931699986  [4, 9]  A-interval class 5
+87.67854913599986  [9]  A-unison
+87.77142895499986  [9]  A-unison
+87.86430877399987  [9]  A-unison
+87.95718859299987  [9]  A-unison
+88.05006841199987  [9]  A-unison
+88.14294823099988  [9]  A-unison
+88.23582804999988  [2, 9]  D-interval class 5
+88.32870786899989  [2, 9]  D-interval class 5
+88.42158768799989  [2, 9]  D-interval class 5
+88.51446750699989  [2, 9]  D-interval class 5
+88.6073473259999  [2, 9]  D-interval class 5
+88.7002271449999  [2, 9]  D-interval class 5
+88.7931069639999  [2, 9]  D-interval class 5
+88.88598678299991  [2, 9]  D-interval class 5
+88.97886660199991  [2, 9]  D-interval class 5
+89.07174642099992  [2, 9]  D-interval class 5
+89.16462623999992  [2, 11]  B-interval class 3
+89.25750605899992  [2, 7, 11]  G-major triad
+89.35038587799993  [2, 7, 11]  G-major triad
+89.44326569699993  [2, 7, 11]  G-major triad
+89.53614551599993  [2, 7, 11]  G-major triad
+89.62902533499994  [2, 7, 11]  G-major triad
+89.72190515399994  [2, 7, 11]  G-major triad
+89.81478497299995  [2, 7, 11]  G-major triad
+89.90766479199995  [2, 7, 11]  G-major triad
+90.00054461099995  [2, 7, 11]  G-major triad
+90.09342442999996  [2, 7, 11]  G-major triad
+90.18630424899996  [2, 7, 11]  G-major triad
+90.27918406799996  [2, 7, 11]  G-major triad
+90.37206388699997  [2, 7, 11]  G-major triad
+90.46494370599997  [2, 7, 11]  G-major triad
+90.55782352499998  [2, 7, 11]  G-major triad
+90.65070334399998  [2, 7, 11]  G-major triad
+90.74358316299998  [2, 7, 11]  G-major triad
+90.83646298199999  [2, 7, 11]  G-major triad
+90.92934280099999  [2, 7, 11]  G-major triad
+91.02222262  [2, 7, 11]  G-major triad
+91.115102439  [2, 7, 11]  G-major triad
+91.207982258  [2, 7, 11]  G-major triad
+91.300862077  [2, 7, 11]  G-major triad
+91.39374189600001  [2, 7, 11]  G-major triad
+91.48662171500001  [2, 7, 11]  G-major triad
+91.57950153400002  [2, 7, 11]  G-major triad
+91.67238135300002  [2, 7, 11]  G-major triad
+91.76526117200002  [2, 7, 11]  G-major triad
+91.85814099100003  [2, 7, 11]  G-major triad
+91.95102081000003  [2, 7, 11]  G-major triad
+92.04390062900003  [2, 7, 11]  G-major triad
+92.13678044800004  [2, 7, 11]  G-major triad
+92.22966026700004  [2, 7, 11]  G-major triad
+92.32254008600005  [2, 7, 11]  G-major triad
+92.41541990500005  [2, 7, 11]  G-major triad
+92.50829972400005  [2, 7, 11]  G-major triad
+92.60117954300006  [2, 7, 11]  G-major triad
+92.69405936200006  [2, 7, 11]  G-major triad
+92.78693918100006  [2, 7, 11]  G-major triad
+92.87981900000007  [2, 7, 11]  G-major triad
+92.97269881900007  [2, 7, 11]  G-major triad
+93.06557863800008  [2, 7, 11]  G-major triad
+93.15845845700008  [2, 7, 11]  G-major triad
+93.25133827600008  [2, 7, 11]  G-major triad
+93.34421809500009  [2, 7, 11]  G-major triad
+93.43709791400009  [2, 7, 11]  G-major triad
+93.5299777330001  [2, 7, 11]  G-major triad
+93.6228575520001  [2, 7, 11]  G-major triad
+93.7157373710001  [2, 7, 11]  G-major triad
+93.8086171900001  [2, 7, 11]  G-major triad
+93.90149700900011  [2, 7, 11]  G-major triad
+93.99437682800011  [2, 7, 11]  G-major triad
+94.08725664700012  [2, 7, 11]  G-major triad
+94.18013646600012  [2, 7, 11]  G-major triad
+94.27301628500012  [2, 7, 11]  G-major triad
+94.36589610400013  [2, 7, 11]  G-major triad
+94.45877592300013  [2, 7, 11]  G-major triad
+94.55165574200014  [2, 7, 11]  G-major triad
+94.64453556100014  [2, 7, 11]  G-major triad
+94.73741538000014  [2, 7, 11]  G-major triad
+94.83029519900015  [2, 7, 11]  G-major triad
+94.92317501800015  [2, 7, 11]  G-major triad
+95.01605483700015  [2, 7, 11]  G-major triad
+95.10893465600016  [2, 7, 11]  G-major triad
+95.20181447500016  [2, 7, 11]  G-major triad
+95.29469429400017  [2, 7, 11]  G-major triad
+95.38757411300017  [2, 7, 11]  G-major triad
+95.48045393200017  [2, 7, 11]  G-major triad
+95.57333375100018  [2, 7, 11]  G-major triad
+95.66621357000018  [2, 7, 11]  G-major triad
+95.75909338900018  [2, 7, 11]  G-major triad
+95.85197320800019  [2, 7, 11]  G-major triad
+95.94485302700019  [2, 7, 11]  G-major triad
+96.0377328460002  [2, 7, 11]  G-major triad
+96.1306126650002  [2, 7, 11]  G-major triad
+96.2234924840002  [2, 7, 11]  G-major triad
+96.31637230300021  [2, 7, 11]  G-major triad
+96.40925212200021  [2, 7, 11]  G-major triad
+96.50213194100021  [2, 7, 11]  G-major triad
+96.59501176000022  [2, 7, 11]  G-major triad
+96.68789157900022  [2, 7, 11]  G-major triad
+96.78077139800023  [2, 7, 11]  G-major triad
+96.87365121700023  [2, 7, 11]  G-major triad
+96.96653103600023  [2, 7, 11]  G-major triad
+97.05941085500024  [2, 7, 11]  G-major triad
+97.15229067400024  [2, 7, 11]  G-major triad
+97.24517049300024  [2, 7, 11]  G-major triad
+97.33805031200025  [2, 7, 11]  G-major triad
+97.43093013100025  [2, 7, 11]  G-major triad
+97.52380995000026  [2, 7, 11]  G-major triad
+97.61668976900026  [2, 7, 11]  G-major triad
+97.70956958800026  [2, 7, 11]  G-major triad
+97.80244940700027  [2, 7, 11]  G-major triad
+97.89532922600027  [2, 7, 11]  G-major triad
+97.98820904500027  [2, 7, 11]  G-major triad
+98.08108886400028  [2, 7, 11]  G-major triad
+98.17396868300028  [2, 7, 11]  G-major triad
+98.26684850200029  [2, 7, 11]  G-major triad
+98.35972832100029  [2, 7, 11]  G-major triad
+98.4526081400003  [2, 7, 11]  G-major triad
+98.5454879590003  [2, 7, 11]  G-major triad
+98.6383677780003  [2, 7, 11]  G-major triad
+98.7312475970003  [2, 7, 11]  G-major triad
+98.82412741600031  [2, 7, 11]  G-major triad
+98.91700723500031  [2, 7, 11]  G-major triad
+99.00988705400032  [2, 7, 11]  G-major triad
+99.10276687300032  [2, 7, 11]  G-major triad
+99.19564669200032  [2, 7, 11]  G-major triad
+99.28852651100033  [2, 7, 11]  G-major triad
+99.38140633000033  [2, 7, 11]  G-major triad
+99.47428614900033  [2, 7, 11]  G-major triad
+99.56716596800034  [2, 7, 11]  G-major triad
+99.66004578700034  [2, 7, 11]  G-major triad
+99.75292560600035  [2, 7, 11]  G-major triad
+99.84580542500035  [2, 7, 11]  G-major triad
+99.93868524400035  [2, 7, 11]  G-major triad
+100.03156506300036  [2, 7, 11]  G-major triad
+100.12444488200036  [2, 7, 11]  G-major triad
+100.21732470100036  [2, 7, 11]  G-major triad
+100.31020452000037  [2, 7, 11]  G-major triad
+100.40308433900037  [2, 7, 11]  G-major triad
+100.49596415800038  [2, 7, 11]  G-major triad
+100.58884397700038  [2, 7, 11]  G-major triad
+100.68172379600038  [2, 7, 11]  G-major triad
+100.77460361500039  [2, 7, 11]  G-major triad
+100.86748343400039  [2, 7, 11]  G-major triad
+100.9603632530004  [2, 7, 11]  G-major triad
+101.0532430720004  [2, 7, 11]  G-major triad
+101.1461228910004  [2, 7, 11]  G-major triad
+101.2390027100004  [2, 7, 11]  G-major triad
+101.33188252900041  [2, 7, 11]  G-major triad
+101.42476234800041  [2, 7, 11]  G-major triad
+101.51764216700042  [2, 7, 11]  G-major triad
+101.61052198600042  [2, 7, 11]  G-major triad
+101.70340180500042  [2, 7, 11]  G-major triad
+101.79628162400043  [2, 7, 11]  G-major triad
+101.88916144300043  [2, 7, 11]  G-major triad
+101.98204126200044  [2, 7, 11]  G-major triad
+102.07492108100044  [2, 7, 11]  G-major triad
+102.16780090000044  [2, 7, 11]  G-major triad
+102.26068071900045  [2, 7, 11]  G-major triad
+102.35356053800045  [2, 7, 11]  G-major triad
+102.44644035700045  [2, 7, 11]  G-major triad
+102.53932017600046  [2, 7, 11]  G-major triad
+102.63219999500046  [2, 7, 11]  G-major triad
+102.72507981400047  [2, 7, 11]  G-major triad
+102.81795963300047  [2, 7, 11]  G-major triad
+102.91083945200047  [2, 7, 11]  G-major triad
+103.00371927100048  [2, 7, 11]  G-major triad
+103.09659909000048  [2, 7, 11]  G-major triad
+103.18947890900048  [2, 7, 11]  G-major triad
+103.28235872800049  [2, 7, 11]  G-major triad
+103.37523854700049  [2, 7, 11]  G-major triad
+103.4681183660005  [2, 7, 11]  G-major triad
+103.5609981850005  [2, 7, 11]  G-major triad
+103.6538780040005  [2, 7, 11]  G-major triad
+103.74675782300051  [2, 7, 11]  G-major triad
+103.83963764200051  [2, 7, 11]  G-major triad
+103.93251746100051  [2, 7, 11]  G-major triad
+104.02539728000052  [2, 7, 11]  G-major triad
+104.11827709900052  [2, 7, 11]  G-major triad
+104.21115691800053  [2, 7, 11]  G-major triad
+104.30403673700053  [2, 7, 11]  G-major triad
+104.39691655600053  [2, 7, 11]  G-major triad
+104.48979637500054  [2, 7, 11]  G-major triad
+104.58267619400054  [2, 7, 11]  G-major triad
+104.67555601300054  [2, 7, 11]  G-major triad
+104.76843583200055  [2, 7, 11]  G-major triad
+104.86131565100055  [2, 7, 11]  G-major triad
+104.95419547000056  [2, 7, 11]  G-major triad
+105.04707528900056  [2, 7, 11]  G-major triad
+105.13995510800056  [2, 7, 11]  G-major triad
+105.23283492700057  [2, 7, 11]  G-major triad
+105.32571474600057  [2, 7, 11]  G-major triad
+105.41859456500057  [2, 7, 11]  G-major triad
+105.51147438400058  [2, 7, 11]  G-major triad
+105.60435420300058  [2, 7, 11]  G-major triad
+105.69723402200059  [2, 7, 11]  G-major triad
+105.79011384100059  [2, 7, 11]  G-major triad
+105.8829936600006  [2, 7, 11]  G-major triad
+105.9758734790006  [2, 7, 11]  G-major triad
+106.0687532980006  [2, 7, 11]  G-major triad
+106.1616331170006  [2, 7, 11]  G-major triad
+106.25451293600061  [2, 7, 11]  G-major triad
+106.34739275500061  [2, 7, 11]  G-major triad
+106.44027257400062  [2, 7, 11]  G-major triad
+106.53315239300062  [2, 7, 11]  G-major triad
+106.62603221200062  [2, 7, 11]  G-major triad
+106.71891203100063  [2, 7, 11]  G-major triad
+106.81179185000063  [2, 7, 11]  G-major triad
+106.90467166900063  [2, 7, 11]  G-major triad
+106.99755148800064  [2, 7, 11]  G-major triad
+107.09043130700064  [2, 7, 11]  G-major triad
+107.18331112600065  [2, 7, 11]  G-major triad
+107.27619094500065  [2, 7, 11]  G-major triad
+107.36907076400065  [2, 7, 11]  G-major triad
+107.46195058300066  [2, 7, 11]  G-major triad
+107.55483040200066  [2, 7, 11]  G-major triad
+107.64771022100066  [2, 7, 11]  G-major triad
+107.74059004000067  [2, 7, 11]  G-major triad
+107.83346985900067  [2, 7, 11]  G-major triad
+107.92634967800068  [2, 7, 11]  G-major triad
+108.01922949700068  [2, 7, 11]  G-major triad
+108.11210931600068  [2, 7, 11]  G-major triad
+108.20498913500069  [2, 7, 11]  G-major triad
+108.29786895400069  [2, 7, 11]  G-major triad
+108.3907487730007  [2, 7, 11]  G-major triad
+108.4836285920007  [2, 7, 11]  G-major triad
+108.5765084110007  [2, 7, 11]  G-major triad
+108.6693882300007  [2, 7, 11]  G-major triad
+108.76226804900071  [2, 7, 11]  G-major triad
+108.85514786800071  [2, 7, 11]  G-major triad
+108.94802768700072  [2, 7, 11]  G-major triad
+109.04090750600072  [2, 7, 11]  G-major triad
+109.13378732500072  [2, 7, 11]  G-major triad
+109.22666714400073  [2, 7, 11]  G-major triad
+109.31954696300073  [2, 7, 11]  G-major triad
+109.41242678200074  [2, 7, 11]  G-major triad
+109.50530660100074  [2, 7, 11]  G-major triad
+109.59818642000074  [2, 7, 11]  G-major triad
+109.69106623900075  [2, 7, 11]  G-major triad
+109.78394605800075  [2, 7, 11]  G-major triad
+109.87682587700075  [2, 7, 11]  G-major triad
+109.96970569600076  [2, 7, 11]  G-major triad
+110.06258551500076  [2, 7, 11]  G-major triad
+110.15546533400077  [2, 7, 11]  G-major triad
+110.24834515300077  [2, 7, 11]  G-major triad
+110.34122497200077  [2, 7, 11]  G-major triad
+110.43410479100078  [2, 7, 11]  G-major triad
+110.52698461000078  [2, 7, 11]  G-major triad
+110.61986442900078  [2, 7, 11]  G-major triad
+110.71274424800079  [2, 7, 11]  G-major triad
+110.80562406700079  [2, 7, 11]  G-major triad
+110.8985038860008  [2, 7, 9, 11]  G-major-second major tetrachord
+110.9913837050008  [2, 7, 9, 11]  G-major-second major tetrachord
+111.0842635240008  [2, 9, 11]  B-incomplete minor-seventh chord
+111.17714334300081  [2, 9, 11]  B-incomplete minor-seventh chord
+111.27002316200081  [2, 9, 11]  B-incomplete minor-seventh chord
+111.36290298100081  [2, 9, 11]  B-incomplete minor-seventh chord
+111.45578280000082  [2, 9, 11]  B-incomplete minor-seventh chord
+111.54866261900082  [0, 4, 9]  A-minor triad
+111.64154243800083  [0, 4, 9]  A-minor triad
+111.73442225700083  [0, 4, 9]  A-minor triad
+111.82730207600083  [0, 4]  C-interval class 4
+111.92018189500084  [0, 4]  C-interval class 4
+112.01306171400084  [0, 4]  C-interval class 4
+112.10594153300084  [0, 4]  C-interval class 4
+112.19882135200085  [0, 4, 9]  A-minor triad
+112.29170117100085  [0, 4, 9]  A-minor triad
+112.38458099000086  [0, 4, 9]  A-minor triad
+112.47746080900086  [0, 4, 9]  A-minor triad
+112.57034062800086  [0, 4, 9]  A-minor triad
+112.66322044700087  [0, 4, 9]  A-minor triad
+112.75610026600087  [0, 4, 9]  A-minor triad
+112.84898008500087  [0, 4, 9]  A-minor triad
+112.94185990400088  [0, 4]  C-interval class 4
+113.03473972300088  [0, 4]  C-interval class 4
+113.12761954200089  [0, 4]  C-interval class 4
+113.22049936100089  [0, 4, 11]  C-incomplete major-seventh chord
+113.3133791800009  [0, 4, 11]  C-incomplete major-seventh chord
+113.4062589990009  [4, 11]  E-interval class 5
+113.4991388180009  [4, 11]  E-interval class 5
+113.5920186370009  [4]  E-unison
+113.68489845600091  [4]  E-unison
+113.77777827500091  [4]  E-unison
+113.87065809400092  [4]  E-unison
+113.96353791300092  [4]  E-unison
+114.05641773200092  [4]  E-unison
+114.14929755100093  [0, 4]  C-interval class 4
+114.24217737000093  [0, 4]  C-interval class 4
+114.33505718900093  [0, 4]  C-interval class 4
+114.42793700800094  [0, 4]  C-interval class 4
+114.52081682700094  [0, 4]  C-interval class 4
+114.61369664600095  [0, 4]  C-interval class 4
+114.70657646500095  [0]  C-unison
+114.79945628400095  [0]  C-unison
+114.89233610300096  [0]  C-unison
+114.98521592200096  [0]  C-unison
+115.07809574100096  [0, 9]  A-interval class 3
+115.17097556000097  [0, 9]  A-interval class 3
+115.26385537900097  [0, 9]  A-interval class 3
+115.35673519800098  [0, 9]  A-interval class 3
+115.44961501700098  [0, 9]  A-interval class 3
+115.54249483600098  [0, 9]  A-interval class 3
+115.63537465500099  [0, 9]  A-interval class 3
+115.72825447400099  [0, 9]  A-interval class 3
+115.821134293001  [0, 9]  A-interval class 3
+115.914014112001  [0, 9]  A-interval class 3
+116.006893931001  [0, 4, 9]  A-minor triad
+116.099773750001  [0, 4, 9]  A-minor triad
+116.19265356900101  [0, 4, 9]  A-minor triad
+116.28553338800101  [0, 4, 9]  A-minor triad
+116.37841320700102  [0, 4]  C-interval class 4
+116.47129302600102  [0, 4]  C-interval class 4
+116.56417284500102  [0, 4]  C-interval class 4
+116.65705266400103  [0, 4]  C-interval class 4
+116.74993248300103  [0, 4]  C-interval class 4
+116.84281230200104  [0, 4, 7]  C-major triad
+116.93569212100104  [0, 4, 7]  C-major triad
+117.02857194000104  [0, 4, 7]  C-major triad
+117.12145175900105  [0, 4, 7]  C-major triad
+117.21433157800105  [0, 4, 7]  C-major triad
+117.30721139700105  [0, 4, 7]  C-major triad
+117.40009121600106  [0, 4, 7]  C-major triad
+117.49297103500106  [0, 4, 7]  C-major triad
+117.58585085400107  [0, 4, 7]  C-major triad
+117.67873067300107  [0, 4, 7]  C-major triad
+117.77161049200107  [0, 4, 7]  C-major triad
+117.86449031100108  [0, 4, 7]  C-major triad
+117.95737013000108  [0, 4, 7]  C-major triad
+118.05024994900108  [0, 4, 7]  C-major triad
+118.14312976800109  [0, 4, 7]  C-major triad
+118.23600958700109  [0, 7]  C-interval class 5
+118.3288894060011  [0, 7]  C-interval class 5
+118.4217692250011  [0, 7]  C-interval class 5
+118.5146490440011  [0, 7]  C-interval class 5
+118.60752886300111  [0, 7]  C-interval class 5
+118.70040868200111  [0, 7]  C-interval class 5
+118.79328850100111  [0, 7]  C-interval class 5
+118.88616832000112  [7, 11]  G-interval class 4
+118.97904813900112  [2, 7, 11]  G-major triad
+119.07192795800113  [2, 7, 11]  G-major triad
+119.16480777700113  [2, 7, 11]  G-major triad
+119.25768759600113  [2, 7, 11]  G-major triad
+119.35056741500114  [2, 7, 11]  G-major triad
+119.44344723400114  [2, 7, 11]  G-major triad
+119.53632705300114  [2, 7, 11]  G-major triad
+119.62920687200115  [2, 7, 11]  G-major triad
+119.72208669100115  [2, 7, 11]  G-major triad
+119.81496651000116  [2, 7, 11]  G-major triad
+119.90784632900116  [2, 7, 11]  G-major triad
+120.00072614800116  [2, 7, 11]  G-major triad
+120.09360596700117  [2, 7, 11]  G-major triad
+120.18648578600117  [2, 4, 7, 11]  E-minor seventh chord
+120.27936560500117  [2, 4, 7, 11]  E-minor seventh chord
+120.37224542400118  [4, 7, 11]  E-minor triad
+120.46512524300118  [4, 7]  E-interval class 3
+120.55800506200119  [4, 7]  E-interval class 3
+120.65088488100119  [4, 7]  E-interval class 3
+120.7437647000012  [2, 4, 7]  E-incomplete minor-seventh chord
+120.8366445190012  [0, 5, 9]  F-major triad
+120.9295243380012  [0, 9]  A-interval class 3
+121.0224041570012  [0, 9]  A-interval class 3
+121.11528397600121  [9]  A-unison
+121.20816379500121  [9]  A-unison
+121.30104361400122  [9]  A-unison
+121.39392343300122  [0, 9]  A-interval class 3
+121.48680325200122  [0, 9]  A-interval class 3
+121.57968307100123  [0, 9]  A-interval class 3
+121.67256289000123  [0, 9]  A-interval class 3
+121.76544270900123  [0, 9]  A-interval class 3
+121.85832252800124  [0, 9]  A-interval class 3
+121.95120234700124  [0, 9]  A-interval class 3
+122.04408216600125  [0, 9]  A-interval class 3
+122.13696198500125  [0, 9]  A-interval class 3
+122.22984180400125  [0, 9]  A-interval class 3
+122.32272162300126  [0, 9]  A-interval class 3
+122.41560144200126  [0, 9]  A-interval class 3
+122.50848126100126  [9]  A-unison
+122.60136108000127  [9]  A-unison
+122.69424089900127  [2, 9]  D-interval class 5
+122.78712071800128  [2]  D-unison
+122.88000053700128  [2, 7]  G-interval class 5
+122.97288035600128  [2, 7, 11]  G-major triad
+123.06576017500129  [2, 7, 11]  G-major triad
+123.15863999400129  [2, 7, 11]  G-major triad
+123.2515198130013  [2, 7, 11]  G-major triad
+123.3443996320013  [2, 7, 11]  G-major triad
+123.4372794510013  [2, 7, 11]  G-major triad
+123.5301592700013  [2, 7, 11]  G-major triad
+123.62303908900131  [2, 7, 11]  G-major triad
+123.71591890800131  [2, 7, 11]  G-major triad
+123.80879872700132  [2, 7, 11]  G-major triad
+123.90167854600132  [2, 7, 11]  G-major triad
+123.99455836500132  [2, 7, 11]  G-major triad
+124.08743818400133  [2, 7, 11]  G-major triad
+124.18031800300133  [2, 7, 11]  G-major triad
+124.27319782200134  [2, 7, 11]  G-major triad
+124.36607764100134  [2, 7, 11]  G-major triad
+124.45895746000134  [2, 7, 11]  G-major triad
+124.55183727900135  [2, 7, 11]  G-major triad
+124.64471709800135  [2, 7, 11]  G-major triad
+124.73759691700135  [2, 7, 11]  G-major triad
+124.83047673600136  [2, 7, 11]  G-major triad
+124.92335655500136  [2, 7, 11]  G-major triad
+125.01623637400137  [2, 7, 11]  G-major triad
+125.10911619300137  [2, 7, 11]  G-major triad
+125.20199601200137  [2, 7, 11]  G-major triad
+125.29487583100138  [2, 7, 11]  G-major triad
+125.38775565000138  [2, 7, 11]  G-major triad
+125.48063546900138  [2, 7, 11]  G-major triad
+125.57351528800139  [2, 7, 11]  G-major triad
+125.66639510700139  [2, 7, 11]  G-major triad
+125.7592749260014  [2, 7, 11]  G-major triad
+125.8521547450014  [2, 7, 11]  G-major triad
+125.9450345640014  [2, 7, 11]  G-major triad
+126.03791438300141  [2, 7, 11]  G-major triad
+126.13079420200141  [2, 7, 11]  G-major triad
+126.22367402100141  [2, 7, 11]  G-major triad
+126.31655384000142  [2, 7, 11]  G-major triad
+126.40943365900142  [2, 7, 11]  G-major triad
+126.50231347800143  [2, 7, 11]  G-major triad
+126.59519329700143  [2, 7, 11]  G-major triad
+126.68807311600143  [2, 7, 11]  G-major triad
+126.78095293500144  [2, 7, 11]  G-major triad
+126.87383275400144  [2, 7, 11]  G-major triad
+126.96671257300144  [2, 7, 11]  G-major triad
+127.05959239200145  [2, 7, 11]  G-major triad
+127.15247221100145  [2, 7, 11]  G-major triad
+127.24535203000146  [2, 7, 11]  G-major triad
+127.33823184900146  [2, 7, 11]  G-major triad
+127.43111166800146  [2, 7, 11]  G-major triad
+127.52399148700147  [2, 7, 11]  G-major triad
+127.61687130600147  [2, 7, 11]  G-major triad
+127.70975112500147  [2, 7, 11]  G-major triad
+127.80263094400148  [2, 7, 11]  G-major triad
+127.89551076300148  [2, 7, 11]  G-major triad
+127.98839058200149  [2, 7, 11]  G-major triad
+128.0812704010015  [2, 7, 11]  G-major triad
+128.17415022000148  [2, 7, 11]  G-major triad
+128.26703003900147  [2, 7, 11]  G-major triad
+128.35990985800146  [2, 7, 11]  G-major triad
+128.45278967700145  [2, 7, 11]  G-major triad
+128.54566949600144  [2, 7, 11]  G-major triad
+128.63854931500143  [2, 7, 11]  G-major triad
+128.73142913400142  [2, 7, 11]  G-major triad
+128.8243089530014  [2, 7, 11]  G-major triad
+128.9171887720014  [2, 7, 11]  G-major triad
+129.01006859100139  [2, 7, 11]  G-major triad
+129.10294841000137  [2, 7, 11]  G-major triad
+129.19582822900136  [2, 7, 11]  G-major triad
+129.28870804800135  [2, 7, 11]  G-major triad
+129.38158786700134  [2, 7, 11]  G-major triad
+129.47446768600133  [2, 7, 11]  G-major triad
+129.56734750500132  [2, 7, 11]  G-major triad
+129.6602273240013  [2, 7, 11]  G-major triad
+129.7531071430013  [2, 7, 11]  G-major triad
+129.8459869620013  [2, 7, 11]  G-major triad
+129.93886678100128  [2, 7, 11]  G-major triad
+130.03174660000127  [2, 7, 11]  G-major triad
+130.12462641900126  [2]  D-unison
+130.21750623800125  [2, 6]  D-interval class 4
+130.31038605700124  [2, 6]  D-interval class 4
+130.40326587600123  [2, 6]  D-interval class 4
+130.49614569500122  [2, 6]  D-interval class 4
+130.5890255140012  [2, 6]  D-interval class 4
+130.6819053330012  [2, 6]  D-interval class 4
+130.7747851520012  [2, 6]  D-interval class 4
+130.86766497100118  [2]  D-unison
+130.96054479000117  [2]  D-unison
+131.05342460900115  [2, 11]  B-interval class 3
+131.14630442800114  [2, 11]  B-interval class 3
+131.23918424700113  [2, 7, 11]  G-major triad
+131.33206406600112  [2, 7, 11]  G-major triad
+131.4249438850011  [2, 7, 11]  G-major triad
+131.5178237040011  [2, 7, 11]  G-major triad
+131.6107035230011  [2, 7, 11]  G-major triad
+131.70358334200108  [2, 7, 11]  G-major triad
+131.79646316100107  [2, 7, 11]  G-major triad
+131.88934298000106  [2, 7, 11]  G-major triad
+131.98222279900105  [2, 11]  B-interval class 3
+132.07510261800104  [2, 11]  B-interval class 3
+132.16798243700103  [2, 11]  B-interval class 3
+132.26086225600102  [2, 11]  B-interval class 3
+132.353742075001  [2]  D-unison
+132.446621894001  [2]  D-unison

@@ -1,0 +1,2878 @@
+Bb:min . . Ab:maj, 1
+D:maj . G:maj/5 D#:dim, 1
+B:sus4(b7,9) B:7, 1
+E:min7 . A:sus4(b7) A:7, 1
+C:maj C:maj7, 1
+C#:sus4(b7,9) C#:7, 1
+(6/4) E:7(#9), 1
+Eb:5 . F:5 G:5, 1
+Bb:5 C:5 F#:5 ., 1
+F:5 G:5 Ab:5 C:5, 1
+Db:5 Bb:5 Ab:7 A:5, 1
+Bb:5 B:5, 1
+C:5 C:5, 1
+C:5 F:5, 1
+Bb:5 Eb:5, 1
+Ab:5 Db:5, 1
+(4/4) C:5 Eb:5 F#:5 A:5, 1
+Eb:maj/3 Ab:maj, 1
+F:maj/3 . Bb:maj *, 1
+G#:hdim7, 1
+F#:minmaj7, 1
+C#:min7 C:aug(b7), 1
+E:maj/5 G:dim, 1
+N . B:min7 E:7, 1
+B:min7 E:sus4(b7), 1
+B:min7 F:maj/5, 1
+Bb:maj B:dim, 1
+C:min . F:sus4(b7) F:7, 1
+F:7 F:sus4(b7) . F:7, 1
+Bb:maj . Eb:maj Eb:min, 1
+G:maj/b3, 1
+C:min7 . F:9 ., 1
+A:1(b5,b7,3)/b5 D:7, 1
+F:maj D:min7, 1
+C:maj/5 G:7, 1
+G:maj F:maj . C:maj, 1
+Bb:maj . F:maj/3 G:min, 1
+F:maj . C:maj/3 Bb:maj/3, 1
+Bb:maj . . F:maj/3, 1
+B:min Bb:maj, 1
+B:min E:1(b5,b7,3)/b5, 1
+G:maj7/9 A:maj, 1
+C:sus2 . . ., 1
+C:sus2, 1
+Bb:maj6(9) . F:maj/3 F:maj, 1
+G:min11/b3, 1
+Bb:maj6(9) . . ., 1
+Ab:5/5 Ab:5 . ., 1
+N G:maj A:min G:maj/3, 1
+G:maj . . A:min/b7, 1
+F:min G:min7/b7, 1
+(2/4) E:min, 1
+D:5 E:min7, 1
+G#:min D#:min E:maj F#:sus4(b7), 1
+(2/4) F#:sus4, 1
+(2/4) G#:sus4, 1
+F:maj(9) G:5(b7) B:min7 ., 1
+(2/4) E:1, 1
+G:maj . F:maj C:maj, 1
+E:min F#:min, 1
+G:maj F#:min, 1
+F#:min/b1, 1
+F#:maj6/13 B:sus2(b7), 1
+E:maj C:aug(b7,9), 1
+E:7/5 Bb:1(b5,b7,3), 1
+F:7 . Bb:maj ., 1
+Eb:maj/5 Bb:maj . ., 1
+E:dim, 1
+Bb:maj/5 . G:min7 ., 1
+D:maj B:maj/3, 1
+A:maj/5 E:maj, 1
+F:maj Bb:maj/9, 1
+F:maj D:maj, 1
+A:min C:maj/9, 1
+C:maj C:min, 1
+G:maj C:maj/9, 1
+D:min F:maj, 1
+Ab:sus4 Ab:maj, 1
+(2/4) Ab:sus2 Ab:maj, 1
+Ab:1 Gb:1 F:1 Eb:1, 1
+F#:sus4 F#:maj, 1
+E:maj D:maj/3, 1
+E:maj E:7/3, 1
+C:maj A:7, 1
+D:min7 G:9, 1
+G:9 . . F#:7, 1
+B:maj . . C#:maj, 1
+G:sus4(b7,9,13), 1
+D:maj/b3 G:maj, 1
+G:minmaj7, 1
+F:min D:hdim7, 1
+F:min . Bb:maj C:maj, 1
+D:min D:min/b7, 1
+Bb:maj Bb:maj/7, 1
+E:min B:min/b7, 1
+Bb:1(3), 1
+Bb:maj(9)/3, 1
+D:5 D:sus4(b7), 1
+D:1(#5) D:5, 1
+D:7 . C:maj/9 D:7, 1
+D:7 . C:maj D:7, 1
+A:maj/11 . D:maj D:sus4, 1
+A:maj/3 . D:maj/13 A:maj, 1
+A:maj D:maj/11 A:maj/13 D:maj/9, 1
+A:maj/11 . D:maj A:maj/11, 1
+(3/4) A:maj/11 E:min/b7 ., 1
+A:7/3 . A:7/9 A:7, 1
+A:7 A:7/b7 A:7/13 A:7/5, 1
+F:min C:maj . ., 1
+Db:maj7 Eb:sus4(b7), 1
+G:maj . Bb:maj C:maj, 1
+C:maj D:7 . ., 1
+E:maj Eb:7, 1
+G#:min F#:maj G#:min F#:maj, 1
+E:sus4 F#:maj, 1
+E:maj C#:maj, 1
+E:maj/5 . Eb:maj/5 D:maj/5, 1
+E:7 B:maj . ., 1
+F:7 C:7 . ., 1
+D:maj7 A:7, 1
+B:min7 . . F#:maj, 1
+G:maj7 . B:min7 ., 1
+E:min7 . . F#:maj, 1
+D:maj7 . A:7 ., 1
+A:min C:maj, 1
+F#:hdim7 E:min, 1
+B:13, 1
+E:maj E:aug(7), 1
+A:min6, 1
+G#:min7 C#:7, 1
+E:maj E:aug(b7), 1
+B:7 C:7, 1
+F:maj F:aug, 1
+Bb:maj7 Bb:min, 1
+D:7(b9), 1
+F:maj F:7/b7 D:7 ., 1
+C:7 N . ., 1
+Bb:maj Bb:min6, 1
+D#:sus4(b7), 1
+F#:dim7, 1
+N E:5, 1
+E:5 D:5, 1
+Bb:maj G:7, 1
+Eb:dim D:min7, 1
+C:maj . G:7 G:aug(b7), 1
+C:maj A:min G:maj ., 1
+G:aug, 1
+F#:min7 . B:maj ., 1
+A#:dim . B:maj ., 1
+F:maj . F#:min B:maj, 1
+E:maj E:maj/7 C#:min C#:min/b7, 1
+A:maj/9 . F#:min B:maj, 1
+C#:min . A:maj ., 1
+A:maj/b7 A:maj/13, 1
+D:maj7 D:min6/9, 1
+F#:min F#:min/7, 1
+F#:min/b7 B:9, 1
+G#:min G#:min/7, 1
+G#:min/bb7 C#:9, 1
+B:maj B:maj/7, 1
+B:maj/b7 B:maj/13, 1
+E:maj7 E:min6/9, 1
+Eb:maj(#11), 1
+G:min F:7/3, 1
+F:sus4 D:7, 1
+G:min F:sus4(b7) G:min7 F:maj/3, 1
+B:min . F#:7 ., 1
+E:1 A:1, 1
+E:maj B:7 E:maj ., 1
+Ab:maj(9)/3, 1
+B:5 E:5, 1
+A:maj . . C#:min/5, 1
+D:maj N . ., 1
+(6/4) C:maj, 1
+B:min11/5, 1
+C#:min7/11, 1
+C#:hdim7/11, 1
+D:maj . C:maj F:maj, 1
+A:1 C:1 G:1 ., 1
+Eb:maj Bb:7, 1
+G:sus4 G:maj7, 1
+A:sus4(b7) . A:min7 A:7, 1
+Eb:min6/5, 1
+E:maj A:maj E:maj B:maj, 1
+E:maj A:maj E:maj ., 1
+Bb:maj/3 Bb:maj, 1
+F:maj . Bb:maj/5 F:maj, 1
+G:maj N, 1
+D:maj9 C#:min7, 1
+(6/4) A:maj/9, 1
+A:maj/9 . D:maj7 ., 1
+(6/4) C#:min7, 1
+A:maj/9 . E:maj ., 1
+N F:maj, 1
+Db:7 Db:maj/7 Eb:min/5 Ab:maj, 1
+Eb:min7/11 Ab:maj, 1
+A:7 D:9, 1
+F:maj7/3 E:min7/b3, 1
+D:min7/b3, 1
+G:maj/3 B:min7, 1
+F#:min(b13) F#:min, 1
+B:maj . . D:maj, 1
+N . . G:7, 1
+F:maj F:maj/13 C:maj/3 A:min, 1
+G:11 G:7, 1
+F:maj F:maj/13 C:maj/3 G:maj, 1
+G:maj E:7 A:min ., 1
+C:maj/9 D:7, 1
+G:maj A:sus4, 1
+G:maj G#:dim, 1
+E:maj E:maj/b7, 1
+A:maj/3 C:7, 1
+B:maj7 Db:maj, 1
+Bb:7 . B:maj Db:maj, 1
+Eb:min9 . B:maj7 Bb:min7, 1
+(6/4) Db:maj, 1
+Bb:7 . Ab:min7 Db:maj, 1
+Eb:min9 . B:maj Bb:min, 1
+Ab:maj Eb:maj . ., 1
+Gb:maj(11), 1
+F:1(b5,11), 1
+Bb:5(b7)/5, 1
+Ab:dim, 1
+G:maj . D:7 C:7, 1
+C:maj B:min7 A:min7 G:maj(9), 1
+Bb:maj7 A:min7 G:min7 F:maj9, 1
+D:maj/9 . C:dim ., 1
+Db:maj/5 Ab:maj, 1
+D:maj . Bb:5 C:5, 1
+F:min C:sus4(b7), 1
+C:min7(11), 1
+B:min . A:maj ., 1
+F#:maj/b3, 1
+F#:sus4 . F#:7 ., 1
+C:maj/3 . . ., 1
+B:min7 . . ., 1
+F:5 Gb:5, 1
+G:5 Ab:5, 1
+A:5 Bb:5, 1
+B:5 C:5, 1
+F:1 Gb:1, 1
+G:1 Ab:1, 1
+A:1 Bb:1, 1
+B:1 C:1, 1
+F:maj . Gb:5 G:5, 1
+Ab:5 A:5 Bb:5 B:5, 1
+C:maj . Db:5 D:5, 1
+F:min/11 . . E:maj/b5, 1
+Eb:maj . F:min/11 E:maj/b5, 1
+Bb:7(b9,b13), 1
+B:1 G:1, 1
+Gb:1 F:1, 1
+E:1 D:1, 1
+C:maj Ab:7, 1
+Db:maj A:7, 1
+G:min7 . G:min F:maj, 1
+C:1 Db:1, 1
+Cb:maj7 Bb:min7 . Ab:min7, 1
+G:maj C:7, 1
+G:maj Eb:maj, 1
+C:maj C:maj/3 F:maj F#:dim, 1
+G:sus4(b7) G:7/b5 C:maj ., 1
+Bb:min F:min/5, 1
+Db:maj D:hdim7, 1
+C:maj/3 F:min, 1
+C:maj/5 F:min/b3, 1
+Db:sus2, 1
+Fb:1(3,7) . . Ab:5/5, 1
+Db:sus2 . . Ab:5/b7, 1
+Fb:1(3,7), 1
+Ab:5/b7, 1
+Gb:maj/b7, 1
+B:7(11), 1
+G:maj/11 F:maj/5, 1
+Db:maj Db:maj/b7, 1
+Gb:maj/3 A:maj, 1
+(3/4) *, 1
+Ab:maj Eb:maj Ab:maj Eb:maj, 1
+F:1(b3), 1
+A:maj/11, 1
+Bb:maj . . Bb:7, 1
+E:7(#9) . G:1 A:1, 1
+B:maj D:maj, 1
+B:maj E:maj/3, 1
+A:maj . B:maj C:dim, 1
+B:sus4(b7)/11 E:maj, 1
+B:aug, 1
+A:min E:7 . ., 1
+A:sus4(b7,9) D:maj . ., 1
+Db:maj Db:maj, 1
+Db:9, 1
+G:min7 . C:sus4(9) C#:9, 1
+G:min7 C:sus4(9), 1
+G:min7 . C:maj D:min9, 1
+F:maj . Bb:maj C#:dim, 1
+Ab:maj . Bb:min C:min, 1
+Ab:maj Db:maj C:min Bb:min, 1
+Bb:min7 C:min7, 1
+N . . B:1, 1
+F:maj F:min/b3, 1
+C:maj6/5, 1
+D:min7/5 F:min6/b3, 1
+F:maj6/3, 1
+F:maj6/3 F:min6/b3, 1
+(2/4) C:1, 1
+C:min/5, 1
+C:sus4 C:sus4/7, 1
+G:sus4/9 G:maj/3, 1
+C:min . Bb:maj G:maj, 1
+C:maj/3 G:maj/5 A:min/b3 G:maj/3, 1
+F:maj/3 . C:maj/5 G:7, 1
+C:min/5 G:7, 1
+N F:maj C:maj G:maj, 1
+C:maj F:maj C:maj G:maj, 1
+A:maj . Ab:1 G:1, 1
+F:7(#11) F:7, 1
+G:maj7 . . G#:dim, 1
+G:maj . . G#:dim, 1
+G:maj G:maj/3 C:maj ., 1
+F:maj . . C:7/3, 1
+C:maj F:min/5, 1
+G:7/3 G:7, 1
+Ab:maj6 G:sus4(b7), 1
+(6/4) C:7, 1
+F:maj . G:sus4 G:maj, 1
+E:min7 A:min, 1
+Gb:maj/9 Db:maj, 1
+C:maj . . A:5, 1
+Db:maj/5 Eb:maj/11, 1
+Cb:maj7 Bb:min7, 1
+Bb:maj C:maj F:maj ., 1
+F#:maj(11), 1
+F#:min . . E:maj, 1
+A:maj/3 A:maj/b7, 1
+D:maj/3 E:maj, 1
+A:maj/3 A:7, 1
+A:maj D:min/5, 1
+E:7 E:7/3, 1
+Ab:sus4(b7) F:min9, 1
+Gb:maj9 F:7(b9), 1
+Gb:maj9, 1
+(2/4) G:min, 1
+B:sus4(b7,9) G#:min7 . ., 1
+E:maj(9)/3 . A:maj B:maj, 1
+Bb:maj . . G:min, 1
+C:1 . . A:maj, 1
+E:5 F#:sus4 E:5 ., 1
+(3/4) E:sus2 . F#:5, 1
+(3/4) G:maj . A:maj, 1
+E:5(b7) D:1 E:1 F:1, 1
+E:5(b7) D:1 E:5 B:5, 1
+(2/4) E:5(b7), 1
+F:maj E:5(b7), 1
+Eb:7 Ab:7, 1
+E:sus4(b7,9) E:maj6, 1
+D:min7 Db:7, 1
+C:maj7 B:min7, 1
+A:min7 D:sus4(b7)/5, 1
+C:maj/9 . . G:maj/5, 1
+C:maj . G:maj D:maj, 1
+C:maj . C:maj/7 C:maj/13, 1
+(1/4) N, 1
+G#:min F#:min, 1
+Db:min/5, 1
+Ab:maj Ab:maj(9), 1
+Bb:sus4(b7) Bb:maj, 1
+Eb:maj/5 Bb:7, 1
+F:sus4(b7,9) F:sus4(b7,9)/9, 1
+F:sus4(b7,9)/9 Ab:maj, 1
+G:maj7 . Gb:maj F:maj, 1
+E:maj Eb:maj D:maj Db:maj, 1
+C:maj B:maj Bb:maj A:maj, 1
+N G:1 A:1 B:1, 1
+D:maj F#:min/5, 1
+G:maj/3 A:maj, 1
+F:maj . F:sus4 F:maj, 1
+F:sus4(b7,9) . . D:7/3, 1
+Eb:maj F:sus2, 1
+Eb:maj F:sus4(b7,9), 1
+Bb:maj F:maj/3 G:min F:maj, 1
+Eb:maj Eb:maj/7 C:sus4(b7) ., 1
+C:1 G:7, 1
+C:maj . C:dim B:dim, 1
+Bb:dim A:dim Ab:dim G:dim, 1
+(2/4) Gb:dim F:dim, 1
+N C:7/b7, 1
+(2/4) Bb:maj Eb:7/5, 1
+N . A:maj G#:min, 1
+F:maj/5 D:min7 F:maj7/7 ., 1
+G:min7/5 C:7/3 Bb:maj6/5 ., 1
+C:maj6/3 F:maj6 D:dim C:sus4/5, 1
+G:min7 C:dim G:min D:7, 1
+Bb:maj D:dim, 1
+C:13, 1
+C:13 . . B:7, 1
+Bb:maj Ab:maj13, 1
+Cb:min6, 1
+Gb:maj6/5 . Bb:sus4(b7) Bb:hdim7, 1
+Ab:9 Ab:maj, 1
+Ab:9 . . G:7, 1
+Ab:7 C:maj6 Bb:maj6 Ab:maj6, 1
+Bb:maj Ab:maj6(7), 1
+Bb:maj Db:maj6, 1
+E:maj6 Db:maj6, 1
+Eb:min7 E:7, 1
+F:hdim7 Db:7/11, 1
+Eb:maj Db:maj/3 Eb:7/3, 1
+F:min7 Bb:min, 1
+Bb:sus4(b7) ., 1
+(6/4) Bb:maj, 1
+Eb:maj Eb:maj/b7, 1
+G:maj C:min, 1
+Ab:maj Ab:min, 1
+Eb:maj Eb:maj/7 C:min ., 1
+Ab:maj A:dim, 1
+G:maj E:min11, 1
+A:min7 D:7 G:7 ., 1
+A:min7 D:7 B:min7/b9 ., 1
+F:min/5 F:min6(9)/5 B:min7 E:min7, 1
+(4/4) N, 1
+A:maj/3 A:maj, 1
+B:min11, 1
+B:maj . E:maj/5 B:maj, 1
+F#:sus4(b13,b7) F#:7(b13), 1
+D:maj/5 A:7, 1
+A:maj7 F#:min7, 1
+B:min(11,9), 1
+E:min(11,9), 1
+D:maj/5 G:maj, 1
+G:7(b13), 1
+G:hdim7/b5 C:7, 1
+F:min F:min/b3, 1
+C:min . G:maj/3 G:min/b3, 1
+F:maj/3 F:min/b3 G:maj ., 1
+C:maj6(7), 1
+D:maj . A:maj/3 B:min7, 1
+Eb:maj6(7) F:7, 1
+Bb:maj7 . C:min7(11) Bb:7/3, 1
+Bb:maj/3 G:min7, 1
+Bb:maj7 . C:min7 Bb:maj/3, 1
+Bb:maj . Eb:maj F:maj, 1
+C:maj E:min, 1
+E:min D:min/b3, 1
+D:min/b3 D:min, 1
+F:maj G:maj C:maj ., 1
+G:maj Ab:maj, 1
+N E:maj F#:min E:maj/3, 1
+E:1(3)/3, 1
+E:maj/3 E:maj, 1
+N . D:maj A:7, 1
+G:maj . D:maj A:7, 1
+E:min A:7, 1
+(2/4) D:maj E:maj, 1
+D:min C:min, 1
+C:maj F:maj C:maj ., 1
+F:7 Bb:maj, 1
+D:5/5, 1
+D:min . . C:maj/9, 1
+B:maj B:sus4/b7 . B:maj/b7, 1
+B:sus4(b7) . . B:maj, 1
+C:maj . . B:1, 1
+G:7 Bb:7 A:7 ., 1
+Ab:7 G:7, 1
+F#:maj(9)/3, 1
+F#:sus4(b7,9) . E:maj F#:sus4(b7,9), 1
+C#:min7 B:7, 1
+C#:min7 A:maj6(9), 1
+D:maj7 G:9, 1
+D:maj7 G:maj(9) F#:min7 E:sus4(b7,9), 1
+(2/4) A:sus4(b7,9), 1
+E:min7 F#:min7 G:maj(9) A:sus4(b7,9), 1
+C:maj9 E:min7, 1
+D:maj9 A:maj6, 1
+D:maj6(9) A:maj6, 1
+A:maj6 B:min7, 1
+A:min7 B:7(b9), 1
+E:min9 F#:min7, 1
+G:maj9 A:sus4(b7,9), 1
+Eb:7 Bb:7 . ., 1
+Eb:sus4(b7) Ab:sus4(b7), 1
+Eb:sus4(b7) Ab:sus4(b7,9), 1
+F:min7 . Bb:min7 Ab:maj, 1
+E:maj G#:min, 1
+F#:min7 A:maj E:maj ., 1
+E:maj . B:sus4(b7,9) B:maj, 1
+E:maj . F#:min7 B:7, 1
+E:maj7 E:maj/7 C#:min ., 1
+F#:7 F#:7/b7 F#:7/13 F#:7/5, 1
+B:7 B:7/b7 B:7/13 B:7/5, 1
+F#:min7 . B:9 B:7(b9), 1
+(6/4) A:1, 1
+F:maj F:7/3, 1
+(2/4) Ab:9, 1
+(3/4) F:5 Ab:maj C:5, 1
+C:maj9(#11), 1
+C:maj9 D:7 E:min7 D:maj/3, 1
+Db:maj(9) Db:maj9(#11), 1
+Db:7 Eb:7, 1
+Eb:maj C:min7, 1
+Eb:maj Ab:min, 1
+Bb:13, 1
+D:maj F:dim, 1
+G:maj7(#9) E:min(9)/7, 1
+A:minmaj7 A:maj7/9, 1
+G:maj7 G:maj7/3, 1
+B:maj/11 A:maj/5, 1
+Ab:7 Eb:7, 1
+Db:maj Eb:min7, 1
+Gb:maj F:min7, 1
+A:7 E:7, 1
+D:maj E:min7, 1
+D:maj D:maj/3, 1
+G:maj A:sus4(b7,9), 1
+Bb:maj . A:min G:maj, 1
+E:maj . F#:min7 G:min7, 1
+C:maj . Eb:maj Bb:maj/3, 1
+C:sus2(#11), 1
+G:maj D:maj/3 E:min D:maj, 1
+C:maj B:min A:min G:maj, 1
+D:maj D:sus4/b7, 1
+B:min D:maj/5, 1
+A:min A:min7/b7, 1
+A:maj6 A:maj, 1
+G:maj D:1, 1
+N . . A:5, 1
+D:min D:min7, 1
+Bb:5/9, 1
+Bb:5/9 C:5 . ., 1
+(3/4) C:maj, 1
+E:min . A:min G:maj, 1
+G:maj B:min G:maj A:5, 1
+Cb:maj Bb:min Ab:min ., 1
+Ab:maj/5 Db:maj/9, 1
+Bb:7(#9) Eb:7, 1
+D:min(11) G:7(#9), 1
+G:min7/5 D:min7, 1
+G:min7/5 D:min9, 1
+Eb:maj/b7 G:min/5, 1
+Eb:maj(9,#11) C:7/3, 1
+G:min9 C:7, 1
+G:min7 A:min7 Bb:maj B:dim, 1
+C:maj6 C:9, 1
+(9/4) G:sus4(b7) A:min7 Bb:maj6 C:7(#9) D:min7 C:maj6/3 F:maj G:sus4(b7,9) C:maj6, 1
+Db:1(b7), 1
+Cb:1, 1
+Gb:min, 1
+B:1 . . D:1, 1
+A:maj . A:sus4(9) A:maj, 1
+E:maj E:sus4, 1
+E:maj B:min7, 1
+A:maj E:sus4(b7,9), 1
+Eb:maj/5 Ab:maj/9, 1
+Bb:maj . G:sus4 G:maj, 1
+Eb:maj7 C:min, 1
+Ab:maj7 Bb:7, 1
+G:min C:min Bb:sus4(b7) Bb:7, 1
+Eb:maj . C:min Bb:sus4, 1
+C:min F:maj, 1
+F:min G:min Ab:maj Bb:sus4, 1
+C:maj(9)/3, 1
+C:maj . D:maj D:7, 1
+C:maj/7, 2
+F:sus2/3, 2
+F:maj/3 . . G:maj, 2
+A:min(11) . . A:maj(11)/b7, 2
+A:min(11), 2
+Db:min(9), 2
+Gb:maj6(b7), 2
+F:sus2 F:min, 2
+F:maj/9 G:maj, 2
+A:hdim7/b5, 2
+Ab:maj . Gb:maj/9 Ab:maj, 2
+Bb:min Bb:min/b7 Gb:maj ., 2
+D:maj13, 2
+(2/4) D:min, 2
+F:min/5 C:maj . ., 2
+D:min G:sus4 . ., 2
+Eb:5 D:5 C:5 Bb:5, 2
+Ab:5 G:5 F:5 Eb:5, 2
+B:min7/b7, 2
+A:maj6/3, 2
+A:maj7/5 F#:min7, 2
+B:hdim7, 2
+Bb:sus4(b7,9) C:sus4(b7,9), 2
+(2/4) D:maj A:maj, 2
+G:maj . D:maj/5 A:maj, 2
+G:maj/5 . D:maj A:maj, 2
+(5/4) G:maj, 2
+A:1(b5,b7,3)/b5, 2
+C:min7 F:9, 2
+D:sus4 D:maj/b7, 2
+B:sus4(b7) B:min7, 2
+D:maj A:min7, 2
+E:min7 E:min9/9, 2
+(2/4) Ab:maj, 2
+G:7/3, 2
+A:min7(11), 2
+C#:dim7/b3, 2
+C:maj A:7/3, 2
+(6/4) A:min G:maj A:min A:min G:maj A:min, 2
+(6/4) A:min G:maj G:maj A:min G:maj G:maj, 2
+(2/4) A:min, 2
+(5/4) E:min . D:maj E:min B:min, 2
+E:min G:maj A:maj B:maj, 2
+E:min . . D:sus2/9, 2
+D:sus2/9, 2
+E:maj B:maj/3, 2
+E:maj F#:sus4, 2
+Db:maj Ab:sus4(b7,9), 2
+N . Ab:maj G:min7, 2
+Bb:sus4(b7,9,13), 2
+Ab:7(b9), 2
+Eb:maj7 Eb:maj6, 2
+(3/4) E:1, 2
+(3/4) D:maj/3, 2
+(3/4) E:maj/3, 2
+G:maj . F:maj C:maj/3, 2
+Bb:maj D:min/5, 2
+C:min/5 F:maj, 2
+Eb:maj Eb:min, 2
+Bb:maj/5 Eb:maj, 2
+D:maj/9 . F:maj/9 G:maj, 2
+Ab:maj7 . Ab:7, 2
+Db:maj7 Db:maj6 Db:7, 2
+Bb:maj . F:7 ., 2
+Bb:maj G:min F:7 ., 2
+B:maj . B:maj/3 B:maj/11, 2
+B:min A:min, 2
+D:5 . . ., 2
+(3/4) G:maj . F:maj, 2
+(3/4) F:maj Eb:maj ., 2
+(3/4) Eb:maj, 2
+A:1(b7)/b7, 2
+A:1(13)/13, 2
+F:1(3), 2
+Bb:maj Bb:min, 2
+B:7 . . ., 2
+C#:5, 2
+G:maj D:7 G:maj ., 2
+C:maj7 . . B:aug, 2
+D:7 D:sus4(b7)/9, 2
+D:hdim7/b3 D:7/3, 2
+F:maj C:min6, 2
+(2/4) D:maj/3 G:maj, 2
+D:maj D:maj/3 G:maj ., 2
+G:maj F:maj/3 Bb:maj ., 2
+Bb:maj Eb:maj/5 C:maj ., 2
+(2/4) F:5 F#:5, 2
+B:maj/5 B:maj . ., 2
+G#:min F#:maj/9 G#:min F#:maj/9, 2
+D:maj/5 D:maj G:maj D:maj, 2
+G:maj G:maj/3 G:maj/11 G:maj/#11, 2
+E:maj/5 E:maj . D:maj, 2
+A:maj B:sus4, 2
+Bb:maj A:min F:maj D:min, 2
+D:maj E:hdim7/b7, 2
+D:maj D:7/b7, 2
+D:maj A:maj/11 D:maj A:maj/11, 2
+A:maj/11 . B:min/b3 A:7/11, 2
+(3/4) A:7/11 E:min/b7 ., 2
+G:maj(11)/11 . . F:maj/5, 2
+C:maj . . C:maj/5, 2
+D:min7/11, 2
+Ab:maj Db:maj Eb:maj ., 2
+Db:maj Eb:maj Ab:maj ., 2
+(3/4) Db:maj7, 2
+Bb:min7 Eb:sus4(b7), 2
+(4/4) B:min, 2
+C#:min7 F#:7, 2
+B:maj/7, 2
+C:dim Db:maj, 2
+C#:dim D:maj, 2
+D:dim Eb:maj, 2
+E:7 B:7 . ., 2
+B:min9 . E:7 ., 2
+C:maj/3 C:maj . C:maj/7, 2
+C:maj/3 . C:maj C:maj/7, 2
+C#:min B:min, 2
+(2/4) D:7, 2
+F:1 C:1, 2
+F:1 E:1, 2
+F:dim/#11, 2
+D#:maj/b13 B:maj6, 2
+C:dim/7, 2
+F#:1(b5,b7,3), 2
+(3/8) Ab:min, 2
+(3/8) Ab:maj, 2
+C:1(b5,b7,3), 2
+(3/4) D:7(b9), 2
+Eb:1(b5,b7,3), 2
+G:1(b5,b7,3), 2
+(3/8) Ab:maj7, 2
+(3/8) A:min, 2
+G#:7(b9), 2
+G:maj . B:7 ., 2
+E:min . E:min/b7 ., 2
+A:maj . D:maj ., 2
+C#:min(11), 2
+A:min7 . D:11 D:7/b7, 2
+G:maj . E:sus4(b7) E:min7, 2
+C:sus4(9) C:maj D:sus4(b7,9) ., 2
+F:maj G:maj . ., 2
+C:maj A:maj G:maj F:maj, 2
+B:maj . . Gb:maj/3, 2
+Gb:maj/3, 2
+Eb:min7 . . Db:maj, 2
+Bb:min7 . . Db:maj/9, 2
+Bb:min7 . . B:min7, 2
+B:min7 . . D:maj/9, 2
+D:maj/9 . . A:maj, 2
+F:maj F#:dim7, 2
+E:5 . . G:5, 2
+A:1 E:1, 2
+B:1 D:1, 2
+Bb:maj G:min7 F:maj ., 2
+C:7 . F:maj F:aug, 2
+Db:dim C:min7, 2
+Bb:maj F:maj7/11 F:maj ., 2
+D:7 . G:maj G:aug, 2
+C:maj G:maj . ., 2
+D:min D:min/9, 2
+D:min7/b3 D:min7, 2
+C:maj . F:maj7, 2
+C:maj . F:maj, 2
+Eb:sus4(b7,9,#11) Eb:maj(#11), 2
+F:sus4 G:min . ., 2
+C:min Bb:maj Eb:maj ., 2
+C#:5(b7), 2
+C:maj Db:maj, 2
+E:7(b9)/11, 2
+Eb:min6(#11), 2
+Ab:maj(9)/13, 2
+B:5 F#:sus4, 2
+E:sus2, 2
+B:maj/5 E:9, 2
+Gb:maj Fb:5(b7), 2
+A:maj C#:dim, 2
+B:min E:min7, 2
+C#:dim, 2
+B:sus4(b7) . B:min7 B:7, 2
+A:maj A#:dim, 2
+E:maj C#:min F#:min7 A:maj, 2
+C:minmaj7, 2
+Ab:maj7 F:min, 2
+Db:maj C:7, 2
+G:hdim7, 2
+A:1 A:maj/3 D:maj ., 2
+F:maj . Bb:maj F:maj, 2
+G#:min B:maj E:maj D#:maj, 2
+D:maj7 . C#:min7 ., 2
+B:maj C#:maj, 2
+E:sus4(b7,9,13) . C#:min7/b3 E:sus4(b7,9,13), 2
+E:sus4(b7,9,13) . . C#:min7/b3, 2
+E:min7 D:maj(9)/3, 2
+E:sus4(b7,9) E:9, 2
+E:sus4(b7,9,13) C#:min7/b3 E:sus4(b7,9,13) C#:min7/b3, 2
+A:maj . . F#:min, 2
+G:maj F:maj . ., 2
+G:maj A:1 . ., 2
+G:min C:sus4(9), 2
+Bb:maj7/3, 2
+Cb:maj/5 Ab:min, 2
+(3/4) F:maj A:min7 ., 2
+F#:hdim7/b3, 2
+A:minmaj7, 2
+D:7(#11), 2
+Eb:minmaj7, 2
+B:maj/b11, 2
+Bb:minmaj7, 2
+Db:maj/3 Ab:maj/9, 2
+Eb:min7 Ab:11, 2
+Db:maj Db:maj/7 Eb:min/5 Ab:maj, 2
+Gb:maj7 Db:maj/3 Eb:min7 ., 2
+Ab:maj . Ab:sus4 Ab:maj, 2
+Db:maj Gb:7, 2
+Cb:9, 2
+Db:maj7 Gb:7, 2
+E:dim G:dim, 2
+G:maj7/3, 2
+F:maj . C:maj/5 G:maj, 2
+C:maj . Bb:maj/9 C:7, 2
+F:maj . E:7 A:min, 2
+C:maj/5 A:min, 2
+D:maj D:7, 2
+D:maj/5 B:min, 2
+D:maj D:maj/5 B:min ., 2
+Bb:maj6 . . A:7, 2
+F:maj F:min, 2
+Eb:maj Bb:maj/3 C:min F:7, 2
+Bb:sus4(b7) Bb:7(#11) Bb:7 C:7, 2
+(2/4) C:min7(11), 2
+F:min G:min7, 2
+D:min . Bb:5 C:5, 2
+A:maj G:maj9, 2
+D:maj B:min A:maj ., 2
+A:7 . . ., 2
+E:min6 . . ., 2
+A:1 . . ., 2
+F#:min . B:maj ., 2
+F:maj F#:maj, 2
+G:maj G#:maj, 2
+A:maj A#:maj, 2
+B:maj C:maj, 2
+C#:7/11, 2
+Bb:7 . . ., 2
+F:min/11 . E:maj/b5 ., 2
+Eb:7 . . ., 2
+Ab:maj . Eb:aug ., 2
+Ab:maj . G:7(#9) ., 2
+C:min . C:minmaj7 C:min7, 2
+F:min/11 . G:min/b3 ., 2
+Bb:9 . Bb:7 ., 2
+A#:1, 2
+Bb:maj7 A:min7 . G:min7, 2
+E:hdim7/b3, 2
+D:min/b7, 2
+B:dim(b13), 2
+Bb:min9 Eb:9, 2
+D:7(b9,#11), 2
+G:13 . . G:7(b13), 2
+F:maj Bb:7, 2
+F:maj Db:maj, 2
+E:min B:min, 2
+A:sus4(b7,9,13), 2
+E:min7 D:maj7/5, 2
+(2/4) Ab:min, 2
+F:min(b13), 2
+Bb:min/9, 2
+G:1 Bb:1, 2
+Ab:min/b3, 2
+Ab:maj Ab:maj/b7, 2
+Ab:maj/13 Ab:maj/5, 2
+D:maj D:maj7, 2
+F:min9/11 Ab:maj7, 2
+C:min(9)/5, 2
+F:sus2(b7) F:maj, 2
+Eb:maj C:min6/b3, 2
+G:min/5 C:min6/9, 2
+D:min D:min(9), 2
+C:sus4(9) C:min, 2
+Bb:maj7 Bb:maj(9), 2
+D:maj A:maj/11, 2
+Ab:min Eb:7(#9), 2
+Db:min9, 2
+Bb:hdim7 Eb:7(b13,#9), 2
+A:9(13), 2
+E:maj(11), 2
+(2/4) C#:min, 2
+(2/4) B:maj, 2
+Bb:maj/3 . F:7/5 F:7, 2
+D:maj . D:maj/3 F#:min, 2
+C:1 . . F:1 ., 2
+F:maj . . . ., 2
+G:maj . . . ., 2
+D:maj . . . ., 2
+C:7 . . Bb:maj F:maj/3, 2
+Ab:maj Eb:7/3, 2
+A:7(b9)/3 D:min7, 2
+Eb:7 D:min7, 2
+E:min . . D:maj, 2
+E:min C:maj, 2
+Eb:maj7 . F:min7 E:maj7, 2
+Eb:maj7 . Bb:min7 Eb:7, 2
+G:sus4(b7) C:7(b9), 2
+F:min7 Bb:7 F#:min7 B:7, 2
+G:dim, 2
+F#:min7 B:sus4(b7,9), 2
+F#:7 F#:7/b9, 2
+F#:min7(11), 2
+G#:min7(11), 2
+Bb:min7 C:min7 . D:min7, 2
+C:min7 D:min7 . E:min7, 2
+B:aug/5 ., 2
+B:aug/5, 2
+G:maj . A:maj B:min, 2
+E:min7/b3 F#:dim, 2
+A:min D:min, 2
+E:maj D:maj . ., 2
+F:maj(#11) . E:sus4(9) B:maj7(b7)/3, 2
+(2/4) B:maj7(b7)/3, 2
+A:maj . B:maj C:maj, 2
+C:maj D:maj D#:maj E:maj, 2
+D:1 G:1, 2
+B:min E:maj, 2
+A:min9(b13), 2
+A:min9 . D:min/5 C:maj/13, 2
+G:maj . . C:maj/3, 2
+G:maj/3 G:maj, 2
+B:7/3, 2
+C:min7/b3, 2
+D:maj7 . C#:min7 A:maj6, 2
+C#:min7 F#:min11, 2
+E:min D:maj/3 G:maj G:maj/3, 2
+Gb:5 G:5, 2
+A:min/b13, 2
+(5/4) A:maj/5, 2
+E:min/b3 B:min, 2
+E:min/b3 B:min/b3, 2
+Eb:maj Bb:min, 2
+D:7 G:min7, 2
+C:maj . F:maj C:maj/3, 2
+D:min7 A:7, 2
+A:maj B:min(11)/b7, 2
+A:maj B:min(11)/11, 2
+D:maj E:maj/b7, 2
+Gb:maj9(#11), 2
+F:sus4 F:sus2, 2
+C:sus4 C:maj, 2
+Db:maj . . Gb:maj/5, 2
+(2/4) G#:min7, 2
+E:maj(9)/3, 2
+C:7 . . A:maj, 2
+N . . E:maj, 2
+(2/4) E:5 F#:sus4, 2
+(3/4) E:min . C:1, 2
+(2/4) C:1 C#:1, 2
+(2/4) B:1 C#:1, 2
+E:maj . . F:maj, 2
+E:5(b7) G:5, 2
+G:5 Ab:5 F:5 ., 2
+F:5 E:5(b7), 2
+Db:7 F:7, 2
+Bb:min7 Db:7/5 Gb:maj Eb:7(b9)/3, 2
+Ab:sus4(b7) Ab:sus4(b7,9), 2
+Db:7 Ab:7, 2
+D:min7 . E:sus4 E:maj, 2
+A:min7 . B:sus4 B:maj, 2
+E:min7 . . A:maj6, 2
+F:maj/13, 2
+(6/4) A:5 Bb:5 A:5 Bb:5 A:5 Bb:5, 2
+Gb:sus2 Gb:maj Gb:sus2 Gb:maj, 2
+Ab:maj Ab:maj6 Ab:maj Ab:maj6, 2
+B:9 B:7, 2
+Bb:min7 . Ab:maj/3 Db:maj, 2
+Bb:7/3, 2
+Bb:min Ab:maj/3, 2
+D:maj G:min, 2
+Eb:maj D:min7, 2
+(2/4) F:sus4(b7,9), 2
+G:min7 F:maj(9), 2
+E:maj/5 B:maj . ., 2
+G#:min . E:maj F#:maj(9), 2
+C#:min11, 2
+C:maj G:1 A:1 Bb:1, 2
+D:7 G:7, 2
+C:maj C:maj/5 . ., 2
+D:maj9(13), 2
+B:maj B:sus4 B:maj B:sus4, 2
+G#:sus4, 2
+C#:min C#:min/b7, 2
+E:maj/3 E:7/3, 2
+C#:min F#:7, 2
+C:7(b9)/b9, 2
+C:min Db:maj7, 2
+G:maj/5 C:maj, 2
+F:min/5 C:maj, 2
+F:min/5 C:maj7, 2
+Bb:9, 2
+E:min7 A:sus4(b7), 2
+B:maj E:maj/5, 2
+F#:maj E:maj, 2
+A:maj . B:min A:maj/3, 2
+N . D:maj(9) E:maj, 2
+Bb:maj9 . C:min7 Bb:maj(9)/3, 2
+Bb:maj7 . C:min7 Bb:7/3, 2
+Bb:maj7 D:min7 G:min7 ., 2
+(2/4) Eb:maj F:maj, 2
+Bb:maj D:min, 2
+D:min C:min/b3, 2
+C:min/b3 C:min, 2
+Eb:maj F:maj Bb:maj ., 2
+A:7/b7, 2
+(2/4) F#:min7, 2
+N . . Ab:maj, 2
+F:min Eb:maj . D:maj, 2
+Ab:1 Eb:1, 2
+C:1 . G:1 F:1, 2
+C:1 Bb:1 Ab:1 Gb:1, 2
+(9/8) G:maj, 2
+A:7 . G:maj G#:hdim7, 2
+C#:9, 2
+F:maj/5 A:min7, 2
+Bb:maj(9) C:sus4(b7), 2
+F:maj . G:min7 F:maj/3, 2
+Bb:maj7 . G:min7 C:sus4(b7), 2
+F:maj(9) Bb:min, 2
+F:maj(9) . . B:7(#11), 2
+Bb:min7(11) Ab:maj7/3, 2
+D:min Bb:maj7, 2
+Eb:maj7 . Bb:maj/9 C:7, 2
+D:min9 Bb:sus2, 2
+Eb:maj9 . C:sus4(b7) B:aug, 2
+Bb:maj9 . A:min7 D:min7, 2
+G:min9 . F:maj9 B:sus4(b7,9), 2
+E:maj9 . Ab:min7/5 Ab:min7, 2
+(2/4) Db:min9, 2
+(3/4) B:maj7 Db:min7 Eb:min7, 2
+(2/4) B:maj9, 2
+G:maj F:maj E:min D:sus4(b7), 2
+B:maj . D:maj A:maj, 2
+D:maj . . E:maj, 2
+B:sus4(b7) B:maj6, 2
+F#:min9, 2
+B:maj6(b9), 2
+F:maj6/5 F:maj/5, 2
+D:min E:min F:maj G:sus4(b7,9), 2
+Bb:maj Bb:sus4(9), 2
+Bb:maj Bb:9, 2
+Bb:maj6/5, 2
+E:maj7/5, 2
+E:maj . E:sus4(9), 2
+F#:sus4(b7,9) F#:7, 2
+F:maj7 C:maj9/3, 2
+E:min9 A:9, 2
+B:min9 F#:min7, 2
+E:min7 A:sus4(b7,9), 2
+G:maj7 F#:min7 E:min9 A:sus4(b7,9), 2
+Eb:1 Bb:1 Db:1 Eb:1, 2
+F:min11, 2
+F:min7 Bb:min7, 2
+Ab:sus4(b7,9) Ab:maj, 2
+D:maj(9) . . A:maj/3, 2
+B:min11 . . B:min11/b7, 2
+G:maj6(9), 2
+Eb:sus2, 2
+E:maj F:maj, 2
+E:sus2(b7) . D:maj A:sus2, 2
+E:1 . D:1 A:1, 2
+Ab:maj Ab:7, 2
+Db:minmaj7/5, 2
+Ab:min Eb:7, 2
+C:maj . D:sus4 D:maj(9), 2
+C:maj(9) C:maj9(#11), 2
+Db:maj Bb:9/3, 2
+F:min7 Eb:maj, 2
+D:maj(9) F:dim, 2
+D:maj(9) E:sus4, 2
+Ab:sus2, 2
+Eb:sus4(b7,9)/5, 2
+E:maj7 E:maj6, 2
+Ab:min Db:min, 2
+Eb:7 . Db:min Eb:7, 2
+D:min7 D:sus2(b7), 2
+D:maj/9 D:7/3, 2
+Eb:min7 F:min7 Gb:maj Ab:sus4(b7), 2
+E:min7 F#:min7 G:maj A:sus4(b7), 2
+F#:min7 . . G:min7, 2
+E:maj . G#:min7 A:maj, 2
+F#:min7 . B:7 E:maj, 2
+D:min7 Db:min7, 2
+A:min7 D:maj, 2
+F:9/5, 2
+B:min7 . E:sus4(b7) A:maj9(#11), 2
+B:min7 C#:min7 D:maj E:maj, 2
+C:7(#9) F:maj/5, 2
+N . G:1 Bb:1, 2
+N . G:1 F:1, 2
+A:maj F:maj, 2
+G:maj . D:maj(9) D:7, 2
+C:maj7 . D:maj(9) D:7, 2
+F:maj/9 G:7, 3
+Db:maj Db:7, 3
+(3/4) D:min . A:min, 3
+A:min . Bb:maj F:maj, 3
+C#:sus4(b7) C#:7, 3
+C:9, 3
+Bb:maj7 Bb:maj6, 3
+Bb:aug Bb:maj . ., 3
+D:maj/9 A:maj/5, 3
+G:maj B:maj, 3
+Ab:maj(9) . G:min7 F:min7(11), 3
+Eb:maj(9) Eb:maj, 3
+E:1 F#:1, 3
+G:1 F#:1 E:1 ., 3
+A:1(11,9) A#:dim, 3
+B:5(b7), 3
+(3/4) C:maj . G:maj/3, 3
+A:maj D:sus4, 3
+C:maj7 . . D:maj/13, 3
+G:maj7 G:maj9, 3
+D:min7 G:sus4(b7,9), 3
+A:min7 G:maj(9)/3, 3
+Bb:maj . G:min7 ., 3
+C:maj/11, 3
+G:min Bb:maj/9, 3
+(6/4) A:maj . Ab:1 Gb:1 F:1 Eb:1, 3
+A:maj7 A:maj6, 3
+G:maj D:7, 3
+A:maj A:maj/7, 3
+G:maj/13 G:maj/5, 3
+D:maj A:sus4(b7), 3
+G:maj . . F#:maj, 3
+F:maj . . Eb:maj, 3
+G:maj6(7), 3
+F:maj/3 G:min7, 3
+G:maj/5 G:maj, 3
+B:min . . G:maj, 3
+D:maj . . G:maj, 3
+E:maj E:sus4 E:maj E:sus2, 3
+A:1(11) D:maj, 3
+F#:dim B:7, 3
+G:min7/11, 3
+G:maj/5 . . D:maj, 3
+D:maj G:maj/5 D:maj ., 3
+B:1 A:1 G:1 F#:1, 3
+E:1 D:1 C#:1 C:1, 3
+Db:dim . Ab:7/11 ., 3
+Db:maj . . Ab:7, 3
+E:maj . . D:maj, 3
+C:maj D:7, 3
+F#:min B:7(b9)/b9, 3
+E:maj E:aug, 3
+A:maj7 A:min6, 3
+E:maj G#:7, 3
+C#:7(b9), 3
+G:maj G:7, 3
+F:hdim7/b7, 3
+Gb:maj/9, 3
+Bb:maj/3 Eb:maj, 3
+C:min7 Bb:maj/3 Eb:maj C:maj/3, 3
+C:aug, 3
+Bb:maj C:sus4(b7), 3
+F:7 . . ., 3
+F#:min6 G#:maj, 3
+Ab:maj6(9), 3
+B:min7 E:maj, 3
+C:maj . F:maj ., 3
+C:maj . D:maj ., 3
+Ab:maj F:min, 3
+B:min(11)/7, 3
+G:maj(9) C:maj/5, 3
+(2/4) A:maj/9, 3
+E:maj . D:maj7 ., 3
+E:min/b3 A:maj, 3
+G#:maj C#:maj, 3
+B:5 . . A:5, 3
+F:9/3, 3
+C:aug(b7), 3
+A:min7 A:7, 3
+D:min G:9/5, 3
+F:aug, 3
+Db:maj . Db:sus4 Db:maj, 3
+Gb:maj7 Gb:maj6, 3
+Ab:sus4 Ab:maj Ab:sus4 Ab:maj, 3
+Db:aug, 3
+B:min/11 E:maj . ., 3
+D:maj7/9 C#:min7/b3, 3
+C#:min7/b3, 3
+C#:dim . . C:7, 3
+B:7(b13), 3
+D:sus4(b7) D:maj, 3
+Eb:7 F:7, 3
+B:min7 D:maj, 3
+Eb:min11 . B:maj Db:maj, 3
+Eb:min7 . B:maj7 Bb:min7, 3
+B:maj7 . B:maj Db:maj, 3
+B:min7 . A:maj(9)/3 ., 3
+F:maj . G:maj ., 3
+Bb:maj . F:maj ., 3
+G:maj F:maj D:min C:maj, 3
+Bb:maj D:7/3, 3
+Bb:min . A:7(b9)/5 A:7(b9)/b7, 3
+F:maj Eb:maj7(#11)/3, 3
+Ab:maj6 Bb:maj, 3
+F#:sus4(b7) . F#:7 ., 3
+F:maj . . Bb:maj, 3
+Ab:maj . . Db:maj, 3
+F:min . . ., 3
+F:min7 Bb:maj, 3
+A:maj F#:7/3, 3
+B:min F#:min7, 3
+B:hdim7 E:7, 3
+C:maj/5 A:7, 3
+D:hdim7 G:7(b9), 3
+Bb:maj Eb:maj/5 . Bb:maj, 3
+B:maj C#:min, 3
+G:7 G:maj/5, 3
+D:maj C:min, 3
+C:maj . . E:maj, 3
+F:13, 3
+C:min F:min, 3
+Bb:sus4(b7,9) Eb:maj, 3
+C:5 . . . ., 3
+A:maj C:maj, 3
+D:7 B:7 E:7 ., 3
+Bb:min7 Ab:maj, 3
+Db:maj9 C:7(#9), 3
+Db:maj6(9)/5 Ab:7, 3
+F#:sus4(b7) B:maj6/5, 3
+E:min7/b3, 3
+(2/4) E:min/b3, 3
+E:min . G:maj A:maj, 3
+Bb:min7 Eb:7, 3
+Bb:maj Eb:7, 3
+B:min E:7, 3
+C:maj C:maj/3, 3
+F:maj(9) F:maj, 3
+F:maj A:min, 3
+G:sus4(9), 3
+A:maj9/3 F#:min7, 3
+Bb:min Db:maj, 3
+A:maj A:maj/5, 3
+F:min7 . Ab:11 F:7, 3
+F:maj C:maj/3 D:min D:min/b7, 3
+C#:5 C#:sus4(b7) C#:min7 ., 3
+C#:sus4(b7) . C#:min7 B:maj6, 3
+B:maj B:maj/b7, 3
+E:maj . . E:7, 3
+C:min/b3 G:maj/5, 3
+F:maj E:maj, 3
+A:min G:maj/3 C:maj ., 3
+D:min7 G:maj6, 3
+C:maj/9 G:maj/5, 3
+C:maj/9 D:maj, 3
+B:min . . C:maj/9, 3
+C:5 Bb:5, 3
+F:maj/3 G:maj, 3
+A:maj . G:maj A:maj, 3
+F:7 . F:sus4(b7) F:7, 3
+A:min A:min/b7, 3
+F:maj D:7/3, 3
+E:maj . . B:maj, 3
+(2/4) B:sus4(b7), 3
+N Ab:1 N Ab:1, 3
+N Cb:1 Db:1 ., 3
+Ab:maj Ab:maj/7 F:min Bb:maj, 3
+D:maj C:maj/9, 3
+A:maj A:maj/13, 3
+A:maj/5 A:maj/11, 3
+F:min6/5 C:maj9, 3
+F:min6/5 . B:min7 E:7(#11), 3
+(2/4) A:min7 D:7, 3
+G:maj7 C:sus4(b7) F:maj7 Bb:sus4(b7), 3
+D:min7 E:min7 F:maj7 G:sus4(b7), 3
+F:min6/5 . F:min/5 C:maj, 3
+F#:hdim7/b5 B:7, 3
+E:min E:min/b3, 3
+C:min(9), 3
+Db:maj F:min, 3
+F:min Eb:min/b3, 3
+Eb:min/b3 Eb:min, 3
+Gb:maj Ab:maj Db:maj ., 3
+A:maj7/7, 3
+G:maj . D:maj/5 A:7, 3
+A:7 . D:maj/5 A:7, 3
+F:maj . . E:min, 3
+E:min11, 3
+C:min/b3 . C:min7/b3 C:min6/b3, 3
+F#:sus4(b7,9) . . D#:min7, 3
+A:sus4(9), 3
+C#:min7 C#:sus2(b7), 3
+C#:min7 A:maj6, 3
+C#:min7 A:maj7, 3
+B:min7/11 A:maj6(9), 3
+D:maj6 D:maj7, 3
+A:min . . G:maj, 3
+Bb:min11 . . Bb:min11/b7, 3
+Gb:maj13, 3
+(2/4) Cb:maj, 3
+B:min A:maj F#:min F#:min/b7, 3
+G:min7 . C:7/3 C:7, 3
+Db:maj Db:maj7, 3
+(3/4) F:min, 3
+Eb:7(b13), 3
+C:maj A:9/3, 3
+E:min7 D:maj, 3
+B:7 Bb:7, 3
+F:min7 Bb:13, 3
+D:maj7 . E:sus4(b7) F:dim, 3
+Db:maj/3, 3
+G:maj F:maj E:min D:min, 3
+G:maj . F#:maj F:maj, 3
+B:maj . . A:5, 3
+E:dim/b5, 3
+C:sus4 C:maj Bb:maj7/9 ., 3
+C:7 Bb:maj/9 F:maj/5 D:min/b7, 3
+Bb:maj/9 C:maj . Eb:maj/13, 3
+C:min Bb:maj/9 . F:maj/5, 3
+F:maj/9 G:maj . ., 3
+Db:7/b7, 3
+Eb:min Eb:min/b7, 3
+G:min7 C:maj/5, 3
+F:maj/5 C:maj F:maj/5 C:maj, 3
+C:maj C:11, 3
+F:11 F:maj . ., 3
+G:11 . . G:maj, 3
+Ab:min(11), 3
+C:1 D:1, 3
+(2/4) G:min7 Ab:min, 3
+Eb:maj . C:min Bb:maj, 3
+C:maj(9)/3 . . D:maj/3, 3
+F:maj/3 . . G:maj/3, 4
+E:min/5, 4
+(2/4) Gb:maj, 4
+F#:min7 . B:sus4(b7) B:7, 4
+D:min E:min, 4
+Bb:maj D:hdim7, 4
+G:13 G:dim, 4
+G:sus4(b7) . G:13 G:9(b13), 4
+D:maj/b7 C:maj, 4
+A:maj F#:min, 4
+D:maj/5 . D:sus4 D:maj, 4
+(4/4) C:maj, 4
+G:sus4/11 C:maj, 4
+D:maj6(b7,11), 4
+Ab:maj Gb:maj, 4
+C:maj . . B:min, 4
+Eb:maj Eb:maj6, 4
+Eb:maj Eb:maj9, 4
+F:min7 Eb:7, 4
+Ab:maj9 Ab:maj6, 4
+Ab:min(9) Ab:min, 4
+Bb:7(b9), 4
+A:1(#5), 4
+F#:min/7, 4
+G:maj C:5, 4
+C:maj . D:sus4 D:maj, 4
+Bb:maj Bb:7, 4
+Bb:maj Bb:maj/b7 Eb:maj/3 Eb:min/b3, 4
+A#:dim7, 4
+A:min7 B:min7, 4
+C:min7 D:min7, 4
+G:maj . . D:maj/11, 4
+C:min7 . F:7 ., 4
+Db:min . . ., 4
+A:maj . E:maj/5 A:maj/3, 4
+(5/4) D:maj, 4
+A:maj A:maj6, 4
+G:maj G:7 G:maj6 G:maj, 4
+G:maj/5 D:maj, 4
+(4/4) F:maj, 4
+Eb:dim, 4
+C:sus4(b7,9) C:7, 4
+(2/4) F:maj Eb:maj, 4
+(2/4) Eb:maj D:maj, 4
+(2/4) C:min7 Bb:maj/3, 4
+D:maj . . C:5, 4
+F:min Bb:min/5 . F:min, 4
+F:min Bb:min/5 F:min ., 4
+C:maj/9 D:maj C:1 D:1, 4
+A:7/5 A:7/3, 4
+A:sus4/5 A:maj/3, 4
+Eb:aug, 4
+N . F:5 F#:5, 4
+B:min A:maj/9 B:min A:maj/9, 4
+F:maj F:7, 4
+F:maj . Bb:maj C:maj, 4
+E:min B:min7, 4
+B:min(9), 4
+F#:min7 E:maj/3, 4
+G:sus4(b7)/11, 4
+A:min7/b3, 4
+F:min F:min/b7, 4
+Eb:maj Eb:sus4(b7), 4
+Eb:maj . . D:7, 4
+A:maj/11 G:maj/5, 4
+G:maj6/3, 4
+F:1 E:min . . . . ., 4
+B:maj G#:min7, 4
+C#:min7 A:maj, 4
+B:min(11), 4
+E:min7 . G:maj ., 4
+G:maj D:maj/11, 4
+C:maj/5 D:maj/11, 4
+F#:min7 B:maj, 4
+E:maj7 E:7, 4
+Bb:maj G:min7, 4
+Bb:maj . F:maj/3 Bb:maj, 4
+C:min Bb:maj F:maj/3 G:min7, 4
+E:min B:1, 4
+C:1 G:1, 4
+A:maj E:1, 4
+G#:sus4(b7) G#:7, 4
+E:min E:min/b7, 4
+A:maj7 B:maj6, 4
+E:hdim7/b7, 4
+C:maj(9) D:7/b7, 4
+B:min7 D:sus4(b7,9), 4
+C:maj(9) G:maj(9)/3, 4
+A:min7 . D:11 D:maj/b7, 4
+A:min7 . D:sus4(b7,9) D:7/b7, 4
+A:min7 . D:maj D:7/b7, 4
+B:min7 E:7(b9), 4
+A:min9 D:sus4(b7,9), 4
+Gb:maj . . Db:maj/3, 4
+Db:maj/3 . Db:maj/9 ., 4
+Gb:maj/9 . . F:min7, 4
+D:min7 . . D:min11, 4
+Bb:maj(9)/3 D:min7, 4
+A:5 E:5, 4
+(2/4) D:min7 F:maj, 4
+G:maj . . C:maj, 4
+C#:maj . . B:maj, 4
+G:min Ab:maj6, 4
+A:min Bb:maj6, 4
+C:sus4(9) C:maj, 4
+E:min E:min/9, 4
+E:min9/b3 E:min9/11, 4
+A:maj/5 . E:maj ., 4
+E:min11 E:min7, 4
+Cb:7, 4
+Bb:maj/7, 4
+F:maj/3 G:maj/9, 4
+D:min7/5, 4
+G:min11, 4
+C:maj . C:maj/3 C:maj/5, 4
+C:min Bb:min Ab:maj ., 4
+B:maj Ab:maj, 4
+Ab:maj Bb:maj6 Bb:maj ., 4
+C#:min E:maj/5, 4
+A:maj G#:min7, 4
+B:maj F#:sus4, 4
+F#:maj . . C#:maj/b11, 4
+F#:maj C#:maj/b11, 4
+F#:maj E:maj/3, 4
+B:sus4/b7, 4
+B:sus4/b7 . . ., 4
+D:7 N . ., 4
+D:maj D#:dim, 4
+A:maj F#:min B:min7 D:maj, 4
+A:maj D:maj A:maj E:maj, 4
+Ab:maj6/9, 4
+Eb:maj Db:maj, 4
+C:maj E:min7, 4
+C:maj D:min7, 4
+F:maj G:7, 4
+N . . A:maj, 4
+C:maj C:maj/5, 4
+C:maj6 C:maj/5, 4
+C#:min7 . A:maj/9 ., 4
+D:maj A:maj/3, 4
+A:maj/13 A:maj/5, 4
+G:5 A:5, 4
+Bb:7 Bb:maj6, 4
+Bb:7 C:maj, 4
+Bb:min7 Cb:maj7, 4
+Cb:maj Eb:min7, 4
+Bb:min7 . . Cb:maj7, 4
+Ab:7 Gb:7 F:7 E:7, 4
+F:min F:min7/b3 Bb:maj ., 4
+E:aug, 4
+Ab:dim7/9, 4
+Db:maj Ab:7(b9,b13), 4
+F:min7 Bb:7(b9), 4
+A:aug, 4
+Ab:min7 Bb:min7, 4
+F:hdim7, 4
+Ab:maj . . Eb:maj, 4
+C:7(11), 4
+Eb:maj Bb:sus4(b7)/11, 4
+F:5 . . Eb:5, 4
+F:5 Gb:5 G:5 Ab:5, 4
+Eb:maj . . Ab:maj, 4
+B:sus4(b7) . . ., 4
+Ab:maj . C:7/5 C:7, 4
+F:min . Db:maj/3 ., 4
+Eb:maj . G:min Gb:min, 4
+Eb:maj . Eb:aug ., 4
+B:min A:maj . ., 4
+E:7(b13)/3 E:7/3, 4
+A:7(b9), 4
+A:7(b9,b13), 4
+G:maj(9) F#:min7, 4
+E:min9 A:maj, 4
+Bb:maj6(7,#11), 4
+D#:dim, 4
+F:maj . E:min7 A:7, 4
+F:min/11 Ab:maj7/3, 4
+C:maj . . . ., 4
+Ab:maj . . Ab:maj/7, 4
+A:sus4(b7,9) A:maj, 4
+A:maj . . B:sus4(b7), 4
+Gb:dim, 4
+F:min7 Bb:sus4(b7,9), 4
+G:min7 C:min7, 4
+F:min7 E:maj7, 4
+G:sus4(b7) G:7, 4
+B:7(b9), 4
+G:min7 F:maj, 4
+A:maj . C#:min7 ., 4
+E:maj D:maj . A:maj, 4
+C:maj/5 G:maj F:maj/9 E:min, 4
+D:min/11 . C:maj/5 G:7, 4
+C:maj7 C:maj6, 4
+D:7 D:7/5, 4
+Bb:maj(9) . C:sus4 C:maj, 4
+A:min E:min, 4
+Gb:5, 4
+Gb:maj/5, 4
+C:sus4 C:maj C:sus4 C:maj, 4
+F:min/5 C:maj F:min/5 C:maj, 4
+E:min B:7/3, 4
+B:7/5 B:7(b9), 4
+E:min B:min/b3, 4
+B:min A:maj G:maj ., 4
+B:min G:maj A:maj ., 4
+Ab:11 . . F:7, 4
+G:min7 Bb:maj C:maj ., 4
+Eb:maj C:7/3, 4
+Bb:min C:7, 4
+A:maj7 A:7, 4
+C:maj Ab:maj, 4
+C:maj C:1, 4
+C#:sus4(b7,9), 4
+E:1 . . A:maj, 4
+(3/4) G:maj7 . A:sus4, 4
+(2/4) E:sus2 F#:5, 4
+A:min7 B:7, 4
+C:maj/9 . . D:maj, 4
+F:5 G:5, 4
+Bb:5 A:5, 4
+B:13 B:7, 4
+G:7 G:maj, 4
+Bb:min7 Ab:maj/3, 4
+A:5 G:1, 4
+F#:1 E:1, 4
+Bb:maj Eb:maj/5, 4
+Bb:maj D:7/5, 4
+G:min Bb:7/5, 4
+E:hdim7 F:sus4(b7), 4
+E:maj/3 A:maj(9), 4
+C#:min/b7 B:maj/b7, 4
+G#:min C#:min, 4
+Eb:maj Ab:maj . ., 4
+Ab:7 Bb:min Ab:7/3, 4
+Db:maj C:min Bb:min, 4
+A:maj/b7 Ab:maj/7, 4
+Bb:maj/13 B:maj/b13, 4
+F:min Bb:maj, 4
+B:7(#9), 4
+C#:min F#:min, 4
+F:sus4(b7,9) F:7, 4
+Eb:maj7 F:7, 4
+F:maj . . Ab:maj, 4
+C:maj . . Bb:maj, 4
+F:maj(9) B:7(#11) Bb:min7(11) ., 4
+F:maj(9) F:aug(9), 4
+C:min9 F:min9, 4
+Bb:min9 Ab:maj6/5, 4
+Ab:min9 Gb:maj/5, 4
+Gb:maj9 . Ab:min7 Bb:min7, 4
+F:min9 . . Bb:min9, 4
+Eb:min9 . . Db:maj6/5, 4
+G:9 G:sus4(b7,9) . ., 4
+D:maj/3 A:maj/5, 4
+A:maj/5 A:maj/3, 4
+N E:min/b3 E:maj ., 4
+B:maj A:sus2 . B:maj/b7, 4
+G:7 G:7/13 G:7/b7 ., 4
+C:maj . . G:sus4(b7,9), 4
+C:min7 F:maj, 4
+Bb:maj C:min, 4
+D:maj . G:maj D:maj, 4
+D:min/b3 G:min, 4
+Gb:maj13 . . F:min7, 4
+E:maj7 C#:min7, 4
+Bb:maj7 C:7, 4
+(2/4) Bb:min7 Eb:7, 4
+Ab:min Eb:7/3, 4
+A:dim, 4
+A:dim/b5 A:dim/b3, 4
+Db:maj . Eb:sus4 Eb:maj(9), 4
+D:maj(9) E:sus4(b7), 4
+D:maj7/3 . E:sus4(b7) F:dim, 4
+Ab:7/b7, 4
+D:7 . C:min D:7, 4
+B:min B:min/b7, 4
+E:maj D:maj/9, 4
+B:maj B:7, 4
+C:sus4 C:maj . ., 4
+Bb:maj/9 F:sus4/5 . ., 4
+G:7/11, 4
+B:min7 C#:min7, 4
+(2/4) Db:maj/9, 4
+Bb:min Eb:min, 4
+Cb:maj Bb:min, 4
+N G:1, 4
+A:min . . E:min/b3, 4
+G:maj6 G:maj, 4
+Ab:1(b7) Db:1(b7) . ., 4
+Gb:1(b7), 4
+Ab:1(b7) . . Gb:1(b7), 4
+G:5 Bb:maj . C:maj, 4
+C:min11 Eb:maj, 4
+Eb:maj G:min, 4
+C:min Bb:maj, 4
+Eb:maj Ab:maj7, 4
+Ab:maj7 . G:sus4 G:maj, 4
+B:7 E:maj, 4
+B:min7/5, 5
+(2/4) G:5, 5
+A:maj G:maj E:maj ., 5
+D:sus2(b7), 5
+D:maj . . C:maj, 5
+F#:min7/b7, 5
+Eb:maj6, 5
+F#:min/b7, 5
+C:maj7 D:sus4(b7,9), 5
+Gb:maj Db:maj/3, 5
+G:maj G:maj/b7, 5
+C:maj C#:dim, 5
+D:maj/3 G:maj, 5
+(2/4) Eb:maj, 5
+C:maj Eb:maj F:maj C:maj, 5
+(2/4) F:7, 5
+C:11, 5
+D:maj A:maj/11 D:maj ., 5
+Gb:maj6(9), 5
+E:maj . . Eb:7, 5
+E:9/3, 5
+D:maj6 . A:7/3 ., 5
+D:maj . C:maj B:1, 5
+B:maj A:maj G#:min F#:min, 5
+Eb:maj . D:min C:min7, 5
+A:maj . . B:sus4(b7,9), 5
+B:7 . . F#:min7, 5
+F#:7 . . B:sus4(b7,9), 5
+Gb:maj . . Ab:sus2(b7), 5
+C:maj/13, 5
+E:min/11, 5
+Eb:maj/9, 5
+A:maj A:maj/b7, 5
+Ab:7/5, 5
+Eb:min7 Ab:7/b7, 5
+C:sus4(b7,9), 5
+Cb:maj/9 Db:7 Gb:maj/3 Ab:maj, 5
+F:maj F#:dim, 5
+G:5 D:5, 5
+F:maj(9)/5, 5
+F:maj Eb:maj, 5
+F#:7/3, 5
+C:maj Eb:dim, 5
+Eb:maj G:min/5 C:maj ., 5
+G:min7 . C:sus4(b7,9) C#:9, 5
+(2/4) Bb:min7, 5
+A:min Bb:maj, 5
+A:maj F#:maj, 5
+C#:7 F#:min7, 5
+A:maj . . E:maj, 5
+E:min9 . A:sus4(b7) A:7, 5
+Bb:min9, 5
+(3/4) D:maj/5, 5
+(2/4) F#:7 B:min, 5
+E:5(b7) . . F:maj, 5
+A:min7 D:7/b11, 5
+Eb:maj(9), 5
+Ab:maj Db:maj/5 . Ab:maj, 5
+Db:maj/5 . . Ab:maj, 5
+G:maj(9)/5 C:maj, 5
+F#:min7 . B:7 B:aug(b7)/3, 5
+E:min7 A:min7 D:min7 G:7, 5
+(2/4) D:maj F#:min, 5
+Eb:maj . . F:maj, 5
+Bb:min11, 5
+Gb:maj Eb:min, 5
+D:maj . A:maj/3 B:min, 5
+F:5 Ab:maj C:5 Ab:9, 5
+Ab:min Db:7, 5
+Eb:maj Eb:maj/7, 5
+C:min7 Eb:maj/5, 5
+Bb:hdim7/b5, 5
+G:maj E:min7, 5
+B:maj . . E:5, 5
+A:5 . C:5 D:5, 5
+Eb:maj . Ab:maj F:min, 5
+Db:maj Gb:maj/5, 6
+Bb:maj G:maj, 6
+F:min F:maj, 6
+D:5 F:5/13, 6
+G:maj/5 A:maj, 6
+N . . ., 6
+G:maj G:maj/7, 6
+A:min/5, 6
+Bb:maj . Eb:maj/5 Bb:maj, 6
+E:min F#:min/b7, 6
+Eb:sus4, 6
+Bb:maj . Eb:maj ., 6
+D:maj B:7/3, 6
+D:min G:min, 6
+C#:min C#:min(9), 6
+C#:min/3, 6
+D:9, 6
+C:min7 D:7, 6
+F#:min G:maj, 6
+C:maj/9 D:maj C:maj D:maj, 6
+D:maj D:sus4, 6
+D:maj A:7/5, 6
+D:maj/5 A:sus4(b7), 6
+D:maj/5 D:maj . ., 6
+D:maj . . D:sus4, 6
+A:maj B:min, 6
+F:maj . . G:min/11, 6
+Bb:maj/3 Db:maj, 6
+A:maj(#9), 6
+D:maj D:sus4(b7), 6
+B:maj B:min/b3, 6
+F:7 . Ab:maj Bb:maj, 6
+E:maj E:7, 6
+F:maj A:7, 6
+(2/4) Bb:min, 6
+G#:7(#9) G#:7(b9), 6
+F:maj F:maj/b7, 6
+Eb:maj . . ., 6
+A:maj B:7, 6
+Eb:maj/b7, 6
+Eb:hdim7/b7, 6
+G:maj(9) . E:sus4(9) E:min(9), 6
+B:min7 E:min7, 6
+Db:maj/9 . . Ab:maj, 6
+Gb:maj7 . . F:min7, 6
+F:maj F:maj6, 6
+F:maj7 F:maj, 6
+E:min7 . . E:min11, 6
+C:maj(9)/3 E:min7, 6
+E:5 G:5, 6
+A:5 . G:5 A:5, 6
+(2/4) D:min7 F:maj7, 6
+Eb:min/5 Bb:maj, 6
+Bb:maj/5 . . A:min/5, 6
+C:sus4/11 F:maj, 6
+A:min . F:min/b3, 6
+A:9 E:maj/3, 6
+B:maj . A:maj D:maj, 6
+E:maj F#:maj B:maj ., 6
+D:maj G:7, 6
+Eb:maj D:7, 6
+Ab:7(b13), 6
+E:min D:min, 6
+G:maj C:maj/5, 6
+D:maj7(#11), 6
+B:maj B:sus4(b7,9), 6
+C:maj C:sus4(b7,9), 6
+F#:1 B:1, 6
+G:maj F:maj G:maj F:maj, 6
+D:min(b13), 6
+Bb:aug(b7), 6
+G:min7 G:7, 6
+C:min F:9, 6
+Ab:11, 6
+Bb:dim Db:dim, 6
+Ab:maj Ab:7(b9,b13), 6
+E:min7(11), 6
+D:7 A:7, 6
+C:maj . G:min/b3 F:maj7/3, 6
+Eb:min(b13), 6
+Eb:min6, 6
+Bb:aug, 6
+F#:sus4/b7, 6
+D:dim, 6
+G#:1, 6
+F#:min . . ., 6
+Ab:sus4, 6
+Gb:maj . Db:maj Ab:maj, 6
+B:min . . B:min/b7, 6
+B:min/13 . . B:min/11, 6
+E:min7 B:min, 6
+Eb:7 Bb:7/5 . ., 6
+Ab:min G:min, 6
+C:maj E:maj/5, 6
+(2/4) F:maj, 6
+C:sus2 C:maj, 6
+Eb:maj G:min/5 C:min ., 6
+A:sus4(b7,9) D:maj, 6
+C:min7 . . . ., 6
+G:maj . . G:sus4(b7) ., 6
+D:maj . . G:maj ., 6
+E:maj9, 6
+F#:sus4(b7,9) G#:sus4(b7,9), 6
+D:maj7 C:maj(#11) . ., 6
+Ab:maj Db:maj Ab:maj ., 6
+Bb:min6, 6
+A:min B:min C:maj D:maj, 6
+F:maj G:maj A:min7 ., 6
+C:maj . . G:maj, 6
+E:min A:min7, 6
+C:7 F:7, 6
+E:maj . G#:min F#:maj, 6
+C:hdim7 F:7, 6
+A:5 B:maj/b7 A:maj9 ., 6
+B:maj/b7 . A:maj9 B:maj6, 6
+(3/4) E:min, 6
+(3/4) B:maj, 6
+(3/4) C:5, 6
+Db:maj F:7, 6
+Bb:7 . Gb:maj6 Db:7, 6
+Gb:maj Ab:sus4(b7,9), 6
+Db:maj Ab:7, 6
+C:maj . F:sus4 F:maj, 6
+F:sus4 F:maj C:maj ., 6
+Bb:maj . C:sus4 C:maj, 6
+C:5 D:5 F:5 C:5, 6
+F:5 C:5, 6
+A:maj . . A:maj7, 6
+C:7 E:min, 6
+C:min11, 6
+C#:min F#:maj, 6
+E:7/b3, 6
+Ab:min11, 6
+Eb:maj Eb:7, 6
+A:min7 D:7 G:sus4(b7) G:7, 6
+C:sus4 C:maj E:min7 ., 6
+F:maj7 . F:maj/9 G#:dim, 6
+Ab:maj Eb:min, 6
+F:min(9), 6
+C#:min9 C#:min9/b7, 6
+F:maj7 F:maj6, 6
+D:maj6(9), 6
+C:maj/5 . . D:maj/11, 6
+C:maj/3 . D:sus4(b7,9) D:maj, 6
+G:maj D:maj/11 E:min/b3 D:maj/b7, 6
+D:5 Bb:maj G:5 Bb:maj, 6
+F:min . . Eb:maj, 6
+Ab:maj Ab:maj/3, 6
+Eb:sus4(b7) Eb:min, 6
+B:dim, 6
+Gb:maj Ab:7, 6
+G:maj A:7, 6
+E:min D:min . C:maj/3, 6
+Ab:maj G:maj, 6
+F:maj E:min7, 6
+D:min7 D:min7/11, 6
+G:5 . . Bb:maj, 6
+Db:5(b7), 6
+G:min7/5, 7
+(2/4) Db:maj, 7
+A:7(b9) A:7, 7
+B:maj(9), 7
+F:min7 Bb:7, 7
+C#:hdim7, 7
+D:7/5, 7
+A:maj/7, 7
+(2/4) G:min7, 7
+A:maj Ab:maj, 7
+C:7/b7, 7
+(2/4) Bb:maj C:maj, 7
+D:maj E:min, 7
+A:1(11) D:5, 7
+B:7/b7, 7
+G#:7 C#:min, 7
+E:maj . . A:maj, 7
+G:maj7 D:maj6/3 E:min7 A:sus4(b7), 7
+D:maj7 . E:min7 A:7, 7
+C:7 F:maj, 7
+A:7(#9), 7
+C:dim, 7
+Eb:maj/5 Bb:maj7, 7
+Bb:7 . . Ab:sus2, 7
+E:sus4(b7) E:7, 7
+F#:sus4(b7) F#:7, 7
+E:7 . . ., 7
+C#:7(#9), 7
+F:sus4(9), 7
+Ab:maj6, 7
+G:maj . C:maj/5 G:maj, 7
+E:maj A:maj/5 E:maj ., 7
+D:maj G:maj/3, 7
+D:minmaj7, 7
+Db:maj/b7, 7
+Bb:sus4, 7
+Eb:min Db:maj, 7
+Ab:maj/5 Ab:maj, 7
+F:maj A:min7, 7
+G:maj7 . . ., 7
+B:min/b7 . . ., 7
+B:dim/b7 . . ., 7
+F:maj9 E:min7(11), 7
+F#:min B:maj, 7
+E:maj(#9) . G:maj A:maj, 7
+E:maj6 C#:7(b9)/3, 7
+Eb:sus4 Eb:7, 7
+C:maj7 F:maj, 7
+F:11, 7
+D:min7 G:maj6/b5, 7
+G:7 G:maj6, 7
+Db:maj(9)/5, 7
+Gb:maj(9) Db:7/3, 7
+C:maj F:maj/9 C:maj ., 7
+F#:sus4 A:maj, 7
+Cb:maj Gb:maj, 7
+Ab:maj9, 7
+D:sus4(b7)/5, 7
+F#:min7 B:9, 7
+G:maj G:sus4, 7
+Bb:maj Gb:maj, 7
+G:5 A:min, 7
+E:sus4 A:maj, 7
+E:maj . . B:7, 7
+F:maj(9) . . G:maj, 8
+C:maj G:maj/11, 8
+A:min/b3 G:maj/11, 8
+C:maj A:maj, 8
+Db:maj Ab:maj Eb:maj ., 8
+A:min . . D:maj/5, 8
+A:min/b3, 8
+B:9, 8
+F:maj/13 C:maj/9, 8
+D:5 C:maj/9, 8
+(2/4) G:maj, 8
+Gb:maj Ab:maj, 8
+Ab:sus4/5 Ab:maj, 8
+C:maj C:maj/7, 8
+Eb:maj6 Eb:maj, 8
+Bb:sus4(b7) Bb:7, 8
+G:maj . . C:5, 8
+G:maj . . C:maj/5, 8
+G:min . . ., 8
+A:maj N . ., 8
+D:maj F:maj, 8
+Db:maj7/7, 8
+D:maj7/3, 8
+Bb:maj . . Bb:maj/7, 8
+C:maj(11), 8
+Bb:maj A:min, 8
+Bb:min Ab:maj, 8
+A:7 A:7/5, 8
+G:maj . F:maj G:maj, 8
+A:1(b5,b7,3), 8
+G#:7(#9), 8
+G:maj . F#:sus4(b7) B:7, 8
+E:min . D:min7 G:7, 8
+Ab:maj(9) . F:sus4(9) F:min(9), 8
+Bb:min7 . Eb:11 Eb:maj/b7, 8
+C:min7 F:min7, 8
+Bb:min7 . Eb:sus4(b7,9) Eb:7/b7, 8
+Bb:min7 . Eb:maj Eb:7/b7, 8
+C:min7 F:7(b9), 8
+Bb:min9 Eb:sus4(b7,9), 8
+C:maj G:7, 8
+F:maj . . F:maj(9), 8
+(2/4) G:maj C:maj, 8
+Eb:maj Bb:maj/3, 8
+B:min7/b3, 8
+E:maj . C#:min ., 8
+A:sus4(b7) A:maj, 8
+D:min . F:maj G:maj, 8
+D:min A:min7, 8
+Bb:sus4(9)/7, 8
+Ab:maj Ab:maj6, 8
+Ab:maj7 Ab:maj6, 8
+Ab:maj . Bb:maj/b7 ., 8
+C#:min(9), 8
+F:maj7/3, 8
+Eb:maj6(9), 8
+D:maj B:min(11), 8
+Eb:maj Ab:7, 8
+C:maj G:7/3, 8
+A:min7 G:7 F:maj C:maj/3, 8
+D:min E:min7, 8
+F:maj7 ., 8
+D:7/3, 8
+A:maj E:maj/11, 8
+G:maj/b7 F:maj7, 8
+F#:maj F#:7, 8
+Bb:maj Bb:maj6, 8
+A:min7 Bb:maj7, 8
+A:min7 . . Bb:maj7, 8
+F:9, 8
+F#:min D:maj . E:maj, 8
+F#:min D:maj E:maj ., 8
+B:min7/11, 8
+C:min C:min9, 8
+F:min7/5 C:min9, 8
+A:maj . . D:maj, 8
+Cb:maj7(#11), 8
+Db:11, 8
+Bb:sus4(b7,9) . . ., 8
+G#:min7 . . ., 8
+F#:maj(11) . . ., 8
+C:maj C#:dim7, 8
+D:min C:maj/3, 8
+E:maj/11 . A:maj ., 8
+G:maj G:maj/5, 8
+C:min G:sus4(b7)/11, 8
+F:5 . . Bb:5, 8
+F:maj Eb:maj . Bb:maj, 8
+Bb:maj Eb:maj . Bb:maj, 8
+E:min(9), 8
+G:maj(9)/5, 8
+Bb:min7 Eb:7(b13), 8
+G:maj7/9, 8
+G:maj9 C:maj/#11, 8
+C:maj/#11 D:maj/3 . E:maj/3, 8
+Db:hdim7, 8
+E:maj . E:maj/5 E:maj/3, 8
+D:maj . E:maj ., 8
+C:min Ab:maj, 8
+C:min Ab:maj/3, 8
+Eb:maj Gb:1, 8
+C:maj7 B:7(b9), 8
+Eb:min11 Db:maj(11), 8
+F:min7 Eb:sus4, 8
+Ab:sus4(b7,9), 8
+(3/4) D:maj, 8
+(3/4) F:maj(9), 8
+E:min6, 8
+E:min(b13), 8
+(2/4) F#:maj, 8
+G:5/11 G:5, 8
+E:min A:sus4(b7,9), 8
+A:maj/5 A:maj6/5, 8
+A:maj/5 . A:maj G#:min, 8
+G#:min(11), 8
+A:min7 D:maj6, 8
+B:sus4(b7) B:7, 8
+Db:7/3, 8
+G:maj Ab:maj/7, 8
+F:min6/5 C:maj7, 8
+C:maj13, 8
+E:7 B:7, 8
+D:maj6/9, 8
+Bb:maj D:min7 G:min7 ., 8
+Db:5, 8
+Bb:5 . C:maj Eb:maj, 8
+F:min Eb:maj, 8
+F:min . . Ab:maj, 8
+E:sus4/9 E:maj . ., 8
+C:maj F:maj/5 C:maj ., 8
+Bb:maj/3 . C:sus4(b7,9) C:maj, 8
+Db:maj(9) . . Ab:maj/3, 8
+G:maj/5 . D:maj A:5/11, 8
+C:1 F:1, 8
+G:1 C:1, 8
+F:min7 C:min Db:maj6 Ab:maj, 8
+Ab:maj Eb:maj/3, 8
+D:maj/3 E:sus4(b7), 8
+Ab:min/5 Db:maj/9, 8
+F:maj6 F:maj, 8
+Ab:1(b7), 8
+E:1 . A:maj/5 E:maj, 8
+Bb:maj Ab:maj7/9, 8
+Eb:maj/5 Ab:maj7/9, 8
+F:min/5, 9
+A:min7 D:sus4(b7,9), 9
+G:maj . . D:maj, 9
+G:7 . . ., 9
+E:sus4 E:maj, 9
+Db:maj F:min7, 9
+Gb:maj Gb:maj/9, 9
+A:7 Ab:7, 9
+D:maj . . G:maj/5, 9
+(2/4) E:maj, 9
+B:min7 F#:min7, 9
+A:min7 D:7, 9
+G:maj/b7, 9
+F:min Ab:maj, 9
+C:7/3, 9
+Eb:sus4 Eb:maj, 9
+Ab:maj F:maj, 9
+F:min/b7, 9
+A:7 . G:maj/9 ., 9
+E:5 . G:5 A:5, 9
+D:min . . A:min7, 9
+D:min G:7, 9
+Bb:maj/5 F:maj, 9
+B:min A:maj/3, 9
+Db:sus4 Db:maj, 9
+A:7/b7 C:9, 9
+Bb:7 C:7, 9
+F#:min D:maj, 9
+Gb:sus2, 9
+(3/4) A:min, 9
+Eb:min F:min, 9
+G:1 G:min/b3, 9
+E:maj6 B:13, 9
+B:min E:min, 9
+D:min/5 A:maj . ., 9
+Gb:maj/9 Db:maj/5, 9
+Db:maj . . Eb:maj, 9
+D:maj B:min7, 9
+G:min7 C:min, 9
+C:maj . . G:min, 9
+G:maj(9)/3, 9
+Bb:min7 Eb:7 Ab:maj ., 9
+Ab:maj Eb:maj/3 F:min7 Eb:maj6, 9
+Db:maj Db:maj/7 Bb:min7 Eb:7, 9
+E:maj6 . B:maj6/3 C#:min7, 9
+C#:min7 E:maj, 9
+A:maj7 . G#:min7 F#:min7, 9
+D#:dim/b5, 10
+C:sus4(b7,9) D:sus4(b7,9), 10
+A:1 D:1, 10
+Bb:1 A:1, 10
+Ab:5, 10
+E:maj/11, 10
+D:maj6(9)/5, 10
+D:min9/5, 10
+D:sus4(b7,9), 10
+A:1(11), 10
+Bb:min Ab:maj/3 Ab:7/11 Db:maj7, 10
+Bb:min Ab:maj/3 . ., 10
+Bb:min Ab:maj/3 Db:maj7 ., 10
+F#:dim, 10
+A:min . C:maj D:maj, 10
+G#:min7 C#:min7, 10
+Eb:11, 10
+A:5 . . E:5, 10
+Db:maj Ab:maj/3, 10
+Bb:7(#9), 10
+A:maj D:maj/5 A:maj ., 10
+Bb:maj D:min7, 10
+G:9/3, 10
+E:min7/5, 10
+Eb:maj/11, 10
+Ab:maj/3 Bb:maj/9, 10
+B:7 E:7, 10
+E:maj/7 . . ., 10
+C#:min7 . . ., 10
+F#:min7 . A:maj B:maj, 10
+D:maj D:maj/7 D:maj/13 D:maj/5, 10
+F:min6, 10
+G:maj G:maj/3, 10
+C:min Eb:maj, 10
+A:min7 G:maj/3, 10
+C:maj . B:maj Bb:maj, 10
+F:maj(9) C:maj, 10
+Eb:sus4(b7), 10
+C:min G:min, 10
+A:maj D:maj/3, 10
+G:maj13, 10
+Eb:5, 10
+F:min . . G:min, 10
+F:maj(9) Bb:min6, 10
+G:5/5, 10
+F:5/13 C:1(3)/9, 10
+G#:min9, 10
+G:7 D:7, 10
+E:sus4(b7,9) E:maj, 10
+E:sus2(b7), 10
+D:maj A:7, 10
+D:maj7 D:maj6, 11
+F#:hdim7, 11
+Bb:sus4(b7), 11
+D:5 C:5, 11
+C:min9, 11
+Eb:maj/5 Bb:maj, 11
+F:maj/11 Bb:maj, 11
+F:maj6(9), 11
+A:min7 E:min/b3, 11
+F#:min/5, 11
+(2/4) C:maj, 11
+D:min G:min/5, 11
+A:7/11 D:min, 11
+B:dim/b3 G:sus4/5, 11
+A:7/11 D:maj, 11
+Eb:min7 Ab:7, 11
+D:maj/5 . G:maj/9 ., 11
+D#:7, 11
+Eb:maj . Db:maj Ab:maj/3, 11
+F#:7 . . ., 11
+G:min C:maj/5, 11
+Bb:7(#11), 11
+D#:maj G#:maj, 11
+A:min7 D:min7, 11
+Ab:min7 Ab:min7/11, 11
+G:maj F#:min7, 11
+Eb:1, 11
+A:min . E:7(b9) ., 11
+F:9 . E:7(b9) ., 11
+G:maj . D:sus2 D:maj, 11
+C:7 . . Bb:maj ., 11
+C:7 . . Bb:maj F:maj, 11
+E:7 A:7, 11
+C:maj . . C:7, 11
+B:min7 E:9, 11
+B:sus4(b7,9), 11
+(3/4) G:maj7, 11
+C:maj9 B:min7, 11
+G:maj G:maj6, 11
+F#:min7 G#:min7, 11
+A:maj/5 E:maj . A:maj/5, 11
+E:maj . A:maj/5 E:maj, 11
+Ab:maj Bb:7, 11
+B:maj/5, 12
+E:min/b3, 12
+Eb:maj(9) F:maj(9), 12
+D:5 D:sus4, 12
+G:min/5, 12
+E:sus4, 12
+(6/4) D:maj . . . D:maj/3 ., 12
+F#:min B:sus4(b7,9), 12
+Bb:maj7 G:min7, 12
+F#:min7 B:maj/5, 12
+G#:maj, 12
+(3/4) Ab:7(#9), 12
+D:maj/5 D:maj, 12
+B:min A:maj, 12
+Db:7 C:7, 12
+A:7(#11), 12
+Db:7(#11), 12
+Eb:maj F:sus4(b7), 12
+C:maj . . C:sus4, 12
+A:min/b7, 12
+D:1 . G:maj/5 D:maj, 12
+C:maj . . F:maj/5, 12
+F:min7 C:min, 12
+C:min . F:min7 Eb:maj, 12
+D:maj(#9), 12
+F#:min C#:min, 12
+D:sus4(b7) D:7, 12
+Db:1, 12
+G:min7 C:sus4, 12
+D:7 . C:maj G:maj, 12
+Eb:min7(b13), 12
+C:maj/3 F:maj . ., 12
+E:1 D:1 E:1 ., 12
+Db:maj Db:sus4(b7,9), 12
+C:maj/b7, 12
+G:min Bb:maj, 12
+F:min7 Bb:7/5, 12
+G:min7 C:sus4(b7,9), 12
+G:maj D:maj G:maj D:maj, 12
+E:maj E:maj/9, 12
+Bb:min7 Eb:min7, 12
+E:min E:minmaj7/5, 12
+C:min . . F:sus4 ., 12
+A:maj A:maj(9), 12
+D#:sus4(b7) G#:sus4(b7,9), 12
+E:min A:min, 12
+D:min7 G:maj, 12
+A:min B:min, 12
+E:min7 A:min7, 12
+A:maj A:maj7 A:maj6 A:maj, 12
+A:maj A:sus4 A:maj A:maj, 12
+Bb:min9 Ab:maj, 12
+Eb:sus4(b7,9) Ab:maj/11, 12
+Gb:maj6(9) Eb:min7(11), 12
+C:hdim7 F:7(b9), 12
+C:maj/9 . . G:maj, 12
+E:maj6, 12
+Bb:maj Eb:7/5 Bb:maj Eb:7/5, 12
+C#:min . . B:maj, 12
+Gb:maj Eb:min7, 12
+Ab:maj Db:maj/5 . ., 12
+C:maj N, 12
+F:min9 Bb:min9, 12
+Eb:min9 Db:maj6/5, 12
+A:maj7(#11), 12
+F#:min7 A:maj, 12
+C:maj(9) . . D:maj, 12
+G:maj/11, 13
+Eb:9, 13
+Bb:maj F:7, 13
+G:min9, 13
+Eb:maj/3, 13
+E:1(b3,b7,11,9), 13
+Eb:maj Eb:maj7, 13
+A:sus2(b7), 13
+G:min C:maj, 13
+F#:min B:7, 13
+F#:maj/5, 13
+Eb:maj9, 13
+F:maj6/9, 13
+G:7/5, 13
+C:sus4(b7) C:7, 13
+G#:min7 B:sus4(b7,9), 13
+E:1 B:maj/11 E:maj ., 13
+C#:min9 . C#:min7 B:maj6, 13
+F:min7 G:min7, 13
+D:maj/5 A:maj . ., 13
+Ab:min7 Db:7, 13
+E:min7 . D:1 A:1, 13
+A:min7 G:maj, 13
+Ab:maj/9 Bb:maj, 14
+A:maj E:maj/3, 14
+C#:min/b7, 14
+D:min . C:maj ., 14
+C:maj E:min/5, 14
+G:maj A:maj D:maj ., 14
+G:min7(11), 14
+D:1 E:hdim7/b7, 14
+D:maj . A:maj/11 D:maj, 14
+F:maj/9, 14
+Db:maj(9)/5 Eb:maj/11, 14
+G:min Eb:maj, 14
+C#:min(b13), 14
+A:min7 E:min7, 14
+Db:maj6, 14
+C:maj C:7, 14
+B:min G:maj, 14
+E:maj6/13, 14
+A:min9, 14
+F:maj . . Eb:maj Bb:sus4, 14
+A:maj . . D:maj/5, 14
+D:min11, 14
+A:maj . E:maj/11 A:maj, 14
+A:maj A:maj/3, 14
+G:maj/b7 A:min, 14
+Bb:min . . Gb:maj/3, 14
+C:min7 F:sus4(b7,9), 14
+F#:min9 B:maj6(b7), 14
+B:maj9 . Db:min7 Eb:min7, 14
+A:min7 . E:min7 G:7, 14
+D:min6 D:min7 . ., 14
+B:maj . D:maj E:maj, 14
+F:min7 Ab:maj/3 Db:maj Ab:maj, 14
+Bb:sus4(b7)/b7, 14
+D:maj B:maj G:maj A:maj, 14
+Bb:maj/9 C:maj . ., 14
+E:min D:maj, 15
+D:maj C:maj, 15
+E:7/3, 15
+D:min7 D:min/13, 15
+A:maj . . B:maj, 15
+F#:sus4, 15
+D:maj A:sus4, 15
+Eb:maj F:7, 15
+G:maj E:min, 15
+Ab:maj Eb:maj/11, 15
+E:maj . G#:min G:min, 15
+G:maj . . G:maj(9), 15
+Eb:min/5, 15
+C:maj/3 F:maj, 15
+D:maj D:maj6, 15
+A:sus4(b7) A:7, 15
+C:maj D:min, 15
+D:maj7 . C#:min7 B:min7/b7, 15
+F:min Db:maj, 15
+Ab:11 F:7, 15
+E:maj F#:maj, 15
+C#:1 C#:sus4(b7,9) C#:min7 ., 15
+(3/4) B:min, 15
+Ab:maj . . Db:maj/5, 15
+E:maj C#:min7, 15
+Ab:maj Db:maj/5, 16
+Eb:5 C:5, 16
+G:maj . D:maj A:maj, 16
+Bb:maj Eb:maj, 16
+A:maj/5 . A:sus4/5 A:maj/5, 16
+(2/4) Bb:maj, 16
+D:7(#9), 16
+G:maj F:maj, 16
+D:maj A:min, 16
+Eb:maj G:min7, 16
+Ab:maj Ab:maj/9, 16
+C#:1, 16
+E:min D:maj6, 16
+A:min D:maj, 16
+G:min7 G:min7/11, 16
+Ab:maj . Db:maj ., 16
+C#:5(b13), 16
+Db:maj9, 16
+D:maj . G:maj ., 16
+A:maj . G:maj ., 16
+Eb:maj/5 Bb:maj F:maj ., 16
+Eb:maj Ab:maj/5, 16
+Eb:maj7 Ab:maj/5, 16
+Eb:maj/5 C:min7, 16
+F#:11, 16
+E:5(b7), 16
+A:maj B:min7, 16
+F:min7/5, 16
+F#:maj . . ., 16
+B:sus4(b7,9) . . ., 16
+F:maj . . Bb:maj/5, 16
+Db:min7, 16
+A:maj A:maj7/7, 16
+A:maj E:11, 16
+Gb:1, 16
+E:maj(11) E:maj, 16
+F:sus4(b7) F:7, 16
+D:maj/5 A:maj . D:maj/5, 16
+B:7/5 B:7, 16
+Db:min9 B:maj/bb13, 16
+D:maj E:sus4(b7), 16
+B:maj/11, 16
+D:5 F:maj, 16
+F:9/5 Eb:maj, 16
+G:min F:maj Eb:maj ., 16
+E:min B:min7 . ., 17
+C:maj7 C:maj/9, 17
+Bb:sus4 Bb:maj, 17
+(2/4) D:maj, 17
+G:min7 C:7, 17
+A:maj(9)/3, 17
+B:min7 . D:maj/9 ., 17
+D:min7 A:min7, 17
+F#:sus4(b7,9) C:maj9, 17
+C#:min7 F#:min7, 17
+F:sus4(b7), 18
+G:min C:7, 18
+B:min7 D:7, 18
+A:min D:7, 18
+Eb:sus4(b7,9), 18
+F:maj C:maj/3, 18
+F:maj . C:maj G:maj, 18
+E:sus4(b7,9,13), 18
+E:dim7 G:dim7, 18
+F#:hdim7 B:7, 18
+E:min7 D:sus4(b7,9), 18
+A:min7 . . ., 18
+G:maj(11) . . ., 18
+B:min7 A:maj, 18
+A:min7 A:min11, 18
+F:maj9 D:hdim7, 18
+C:7/3 C:sus4(b7), 18
+A:maj E:7, 18
+E:1 . . E:maj, 18
+E:1 A:maj, 18
+D:min C:maj/9, 18
+D#:min7 G#:min7, 18
+(3/4) G:maj, 19
+D:hdim7, 19
+D:maj/13, 19
+E:min7 A:7, 19
+B:min B:min7, 19
+G#:min A:maj7, 19
+A:maj/b7, 20
+F#:sus4(b7), 20
+G:13, 20
+Bb:maj(9), 20
+E:maj E:maj/3, 20
+A:maj6, 20
+Db:maj Db:maj6, 20
+Db:maj7 Db:maj6, 20
+D:maj G:maj/5, 20
+(2/4) N, 20
+E:7/b7, 20
+B:min9, 20
+D:maj . C:maj D:maj, 20
+E:maj B:maj . ., 20
+G:maj . C:maj ., 20
+E:maj F:maj7 . C:maj, 20
+C:maj Bb:maj A:min7/5 ., 20
+E:maj F:maj . D:maj, 20
+D:maj B:maj E:maj ., 20
+Eb:maj/5 C:min7 . ., 20
+D:min E:min7 D:min7/b3 A:min, 20
+F:maj E:min, 20
+Ab:9, 20
+C#:5 B:5, 20
+D:maj D:maj/5, 20
+Ab:min6, 20
+Ab:min(b13), 20
+Db:min9 Ab:min7, 20
+C#:min G#:min, 20
+C:maj . . Bb:maj ., 20
+B:maj9 Bb:maj6/5, 20
+D:min G:maj, 20
+A:maj A:7, 20
+Ab:13, 20
+Bb:maj F:maj/11, 20
+B:maj . A:maj G#:min, 20
+F#:min A:maj E:maj ., 20
+Eb:min(9), 20
+G:maj/5 . D:maj E:min/b7, 20
+Db:min, 20
+G:min7 C:maj, 20
+D:maj/7, 21
+C:maj . . F:maj, 21
+Ab:sus4(b7), 21
+Eb:maj/5, 21
+D:maj9, 21
+C#:min B:maj, 21
+Ab:7 Ab:9, 22
+C:maj B:maj, 22
+(2/4) A:maj, 22
+B:maj . E:maj A:maj, 22
+Eb:maj9(13,#11), 22
+E:maj/3 A:maj . ., 22
+Bb:11, 22
+F:min9 Ab:maj7, 22
+Gb:maj7/9 . . A:min6, 22
+D:min/b3 G:7, 22
+C:maj7 C:maj . ., 22
+D:maj . G:maj A:maj, 22
+D:maj7 C#:min7, 22
+B:min7 A:maj7, 22
+Bb:min . . ., 23
+Ab:maj/5 Gb:maj/9, 23
+G:min6, 23
+F:sus4(b7,9), 23
+F#:min A:maj, 23
+A:min G:maj, 23
+D#:min, 23
+Ab:maj/9, 23
+Bb:maj9, 23
+F:maj6, 23
+B:min7 E:7, 24
+A:maj E:maj . ., 24
+C:maj/9, 24
+G:maj/5, 24
+D:maj D:maj/9, 24
+Ab:maj Db:maj, 24
+B:min/5, 24
+D:min9, 24
+Gb:7 Db:7, 24
+Bb:maj/b7, 24
+G:maj F:maj/9, 24
+F#:maj F#:sus4(b7,9), 24
+B:min7 B:min7/b7, 24
+G:7 E:7, 24
+D:min Bb:maj, 24
+A:maj . B:maj ., 24
+C:maj C:maj(9), 24
+Db:maj6/5, 24
+G:maj . . A:maj, 24
+D:11, 24
+A:maj/11 D:maj, 24
+F:maj6 G:7, 24
+D:5(b7), 24
+Gb:maj . . Ab:min7, 24
+D:min7/b7, 24
+G:9, 25
+Ab:maj/5, 25
+D:min13, 25
+F:7(#9) . Bb:min C:min, 25
+E:min G:maj, 25
+Ab:maj . . Gb:maj, 25
+Db:maj . . Gb:maj, 25
+D:maj/b7, 26
+Ab:maj/3, 26
+E:min A:maj, 26
+G#:7, 26
+F:min F:min7/5, 26
+E:min G:min, 26
+D:maj B:maj, 26
+C:maj6(9), 26
+Ab:maj . . Ab:maj6, 26
+A:maj . D:maj/5 A:maj, 26
+Db:maj . . C:maj, 26
+A:9, 27
+D:sus2, 27
+D:min/5, 27
+D:maj/11, 27
+G:maj D:maj/3, 27
+Bb:maj7/7, 27
+F:sus4(b7,9) Bb:7, 27
+Eb:min7 Ab:maj, 27
+Bb:min Eb:maj, 27
+C:maj/11 F:maj, 27
+Db:sus4(b7), 27
+G:1 Bb:1 Eb:1 C:1, 27
+F:5(b7), 27
+Eb:maj C:min, 27
+G:11, 28
+F#:maj/3, 28
+C:maj D:sus4, 28
+D:min . . C:maj, 28
+D#:min7, 28
+D#:min G#:maj/5 . D#:min, 28
+D#:min G#:maj/5 D#:min ., 28
+D:5 A:5 B:5 ., 28
+G:5 A:5 D:5 ., 28
+C#:min G#:maj, 28
+F:sus4 F:maj, 28
+B:maj E:maj, 28
+Bb:sus4(9), 28
+Ab:maj7 Eb:maj, 28
+Bb:maj G:min, 28
+F:maj . . C:maj, 28
+B:maj9, 28
+D:min/b3, 28
+C:maj C:min/b3, 28
+G:min F:maj, 28
+E:1(b3,b7)/b7, 28
+F:maj/3, 29
+F#:min7 B:7, 29
+Bb:maj . . ., 29
+G:maj/9, 29
+E:min/b7, 29
+D:7 . . ., 29
+C:maj/5 G:maj, 29
+D:maj F#:min, 29
+D:maj . . ., 29
+C:maj Bb:maj, 29
+G:maj G:sus4(b7,9), 29
+Ab:min9, 29
+Eb:1 . Ab:1 Gb:maj, 29
+B:sus4(b7), 30
+D:min7 G:7, 30
+C:sus4(b7), 30
+F:maj F:maj/3 Bb:maj ., 30
+E:maj . . A:maj/5, 30
+G:sus4(9) G:maj, 30
+G:maj(9) E:min7(11), 30
+C:maj/5 G:maj . ., 30
+Eb:min Gb:maj, 30
+C:maj G:maj/3, 31
+Bb:5, 31
+Bb:maj6(9), 31
+E:min . . ., 31
+Ab:maj Bb:maj, 31
+Eb:min11, 31
+A:maj F#:7, 31
+A:sus4 A:maj, 32
+C:maj . . D:maj, 32
+D:min6, 32
+A:maj C#:min, 32
+G:maj6, 32
+B:1 . . A:1, 32
+C#:maj F#:maj, 32
+F#:min7 . A:maj B:sus4(b7), 32
+Db:maj(9), 32
+E:sus4(b7), 33
+F:maj9, 33
+A:sus4(b7), 33
+B:sus4 B:maj, 33
+F#:min/b3, 33
+A:sus4, 34
+E:maj F#:min7 E:maj/3 ., 34
+Bb:maj/3, 34
+F#:min11, 34
+G:sus4 G:maj, 34
+E:maj/3 A:maj, 34
+A:maj E:maj/3 D:maj/3 E:maj, 34
+D:maj . G:maj F:maj, 34
+D:maj . G:maj/5 D:maj, 35
+F#:1, 35
+A:maj/3, 35
+F#:sus4(b7,9), 35
+F:maj Bb:maj/5, 35
+D:maj D:maj/7, 35
+E:maj D:maj, 36
+Ab:maj Bb:min, 36
+E:maj E:sus4(b7,9), 36
+B:min C:maj7, 36
+E:min7 B:min7, 36
+A:min7 D:sus4(b7), 36
+D:maj7/9, 36
+C:maj9/3, 36
+F:maj/5 C:maj A:min7 ., 36
+F:maj7 G:7 F:maj7 ., 36
+E:5(b7) . . F:5, 36
+E:aug(b7) A:min9, 36
+E:1 G:1, 36
+F:maj . . G:maj, 37
+B:sus4, 37
+F:1, 37
+D:maj . . A:maj, 37
+G#:min, 37
+F:maj G:min7, 37
+Gb:maj/5 Db:maj, 38
+D:maj C:maj(9), 38
+Bb:maj/9, 38
+Bb:maj/5 . . C:maj/11, 38
+G:min C:min, 38
+Db:maj6(9), 38
+C:1, 39
+D:maj B:7, 39
+Bb:min Eb:sus4, 39
+C#:1 F#:1, 39
+F:maj F:maj/3, 39
+C:sus2/9, 40
+D:sus4, 40
+B:maj F#:maj, 40
+Gb:maj F:maj, 40
+Cb:maj(9), 40
+A:maj A:maj/3 D:maj ., 40
+C:maj A:min(11), 40
+C:maj6, 41
+D:min C:maj, 41
+Bb:maj/5, 41
+D:sus4(b7), 41
+G:maj A:min, 41
+G:sus4(b7,9), 41
+F:min9, 42
+Db:maj/9, 42
+D:sus4 D:maj, 42
+A:min . . ., 42
+D:min7/5 . G:maj/9 G:maj, 42
+E:maj6(9), 42
+Bb:sus2 C:sus4, 42
+D:maj D:maj/b7, 42
+A:maj9, 43
+Bb:maj F:maj/3, 43
+D:min6/5, 43
+Eb:7(#9) . Gb:maj Ab:maj, 43
+Ab:maj(9), 44
+C:7 . . ., 45
+A:maj/5, 45
+Bb:maj . . C:maj, 45
+Db:maj7, 45
+F:maj C:maj/11, 45
+G:maj(9) A:maj, 45
+*, 46
+C:min7 F:7, 46
+C#:7, 46
+B:min/11, 46
+F:maj D:min, 46
+E:min7 A:maj, 46
+Eb:min/b7, 46
+F#:min E:maj/9, 46
+G:maj G:maj(9), 46
+A:sus4(b7,9), 47
+E:sus4(b7,9), 48
+Bb:sus4(b7,9), 48
+F:7 . Bb:maj, 48
+A:min/11 A:min, 48
+A:min7/b7 A:min7/13 E:aug(b7) ., 48
+F#:min/11, 49
+Eb:min9, 49
+F:5, 49
+G:1, 49
+E:maj/5 B:maj, 50
+C:maj B:7, 50
+Ab:maj F:min7, 50
+A:sus2, 50
+F:min G:min, 50
+Bb:maj6, 51
+D:maj/9, 51
+C:maj A:min, 51
+Cb:maj, 51
+C:maj . F:maj/5 C:maj, 51
+Gb:maj Db:maj, 52
+Ab:min7, 52
+F:maj(9) A:min7, 52
+Db:min7 Gb:7, 52
+F#:maj6, 53
+G:maj9, 54
+G:maj A:maj/3, 54
+B:min D:maj, 54
+C:maj D:maj, 55
+F:maj/5, 55
+Gb:maj6, 56
+Eb:maj F:maj, 56
+A:maj7, 56
+Eb:maj Ab:maj, 56
+C:maj G:maj, 57
+Bb:1, 57
+F#:maj . . B:maj, 57
+F:7(#9), 57
+G:maj/3, 58
+Eb:maj Bb:maj, 58
+Db:maj/5, 58
+A:maj D:maj, 58
+A:7 . G:maj D:maj, 58
+A:13, 59
+Ab:maj Eb:maj, 59
+F:maj(9), 60
+F#:maj B:maj, 60
+B:maj . . ., 60
+D:maj E:maj, 61
+B:5, 61
+G:5 F:5, 61
+B:maj A:maj, 61
+E:maj7, 62
+E:maj/3, 63
+B:1, 63
+E:9, 64
+D:min . . ., 65
+Ab:1, 66
+E:7(#9), 67
+E:min A:maj6, 67
+F:maj . . ., 68
+Gb:maj7, 68
+Ab:min, 68
+E:maj/5, 69
+G:sus4, 70
+C:sus4, 71
+C#:maj, 71
+C:maj/3, 71
+F:sus4, 71
+B:maj B:maj A:maj E:maj, 72
+G:sus4(b7), 74
+Ab:maj Ab:sus4(b7,9), 74
+A:maj . . ., 75
+B:min/b7, 75
+D:maj6, 76
+D:min/b3 F:maj . ., 76
+Gb:maj Fb:maj, 77
+C:maj/5, 78
+A:maj/9, 78
+A:maj G:maj, 78
+C:maj9, 79
+F:maj C:sus4, 80
+G:maj . . ., 80
+B:maj7, 81
+D:maj(9), 81
+G:maj . A:min A:min/11, 82
+Bb:maj C:sus4, 83
+A:maj(9), 84
+A:5(b7), 84
+C#:1 B:1, 85
+&pause, 86
+F:maj/5 C:maj, 86
+D:maj B:min, 87
+D:maj/3, 88
+Bb:min, 89
+Ab:maj7, 89
+Gb:7, 90
+Db:maj Gb:maj, 94
+F:maj . F:maj/3 ., 96
+E:min9 E:min7, 98
+E:maj/b7, 98
+C#:min9, 98
+F:min7, 103
+G#:min7, 103
+E:5, 106
+C:5, 107
+B:min . . ., 107
+A:maj E:maj, 108
+Bb:min7, 109
+Bb:maj . C:maj ., 110
+E:maj B:maj, 111
+D:maj G:maj, 114
+Db:maj Eb:maj, 116
+E:min9, 117
+D:1, 118
+Eb:13, 118
+C:maj . . ., 119
+C:7(#9), 120
+F#:5, 120
+Eb:7(#9), 125
+Eb:maj7, 125
+F:maj G:maj, 127
+G:maj D:maj, 127
+A:maj B:maj, 128
+C:maj F:maj, 130
+Bb:maj7, 130
+E:maj . . ., 130
+G:maj(9), 134
+F:maj Bb:maj, 138
+G:maj A:maj, 142
+D:maj/5, 143
+F:maj7, 152
+D:maj/5 A:maj, 153
+C:maj(9), 157
+Bb:maj F:maj, 157
+A:11, 158
+D:maj7, 165
+A:5, 168
+G:maj7, 174
+C#:min7, 178
+G:maj C:maj, 179
+F:maj C:maj, 186
+A:1, 188
+C:maj7, 199
+D:5, 200
+E:maj A:maj, 205
+F#:7, 208
+E:1, 211
+Bb:maj C:maj, 224
+G:5, 228
+Ab:7(#9), 228
+Eb:min, 232
+D:maj A:maj, 248
+Bb:7, 260
+F#:min7, 261
+Db:7, 293
+C:min7, 314
+B:7, 314
+Gb:maj, 316
+B:min7, 324
+Ab:7, 338
+Eb:min7, 363
+Eb:7, 375
+C:min, 383
+F#:min, 401
+C#:min, 429
+F#:maj, 431
+G:min7, 460
+A:7, 476
+E:min7, 482
+F:min, 483
+A:min7, 500
+C:7, 548
+F:7, 558
+E:7, 583
+G:min, 600
+D:min7, 623
+G:7, 736
+D:7, 757
+Db:maj, 834
+E:min, 937
+D:min, 1009
+Eb:maj, 1024
+A:min, 107
+N, 1078
+B:min, 1207
+B:maj, 1291
+Ab:maj, 1540
+Bb:maj, 1876
+F:maj, 2039
+A:maj, 3234
+C:maj, 3246
+E:maj, 3248
+G:maj, 3757
+D:maj, 3787

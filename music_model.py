@@ -1,55 +1,87 @@
-import glob
-import pickle
-
-import collections
-import cv2
-
-# with open('dataset_values.pickle', 'rb') as handle:
-#     formatted_data = pickle.load(handle)
-#
-# with open('file_ids.txt') as idList:
-#     for fileID in idList:
-#         file = open()
+from keras import Sequential
+from keras.layers import TimeDistributed, Convolution1D, MaxPooling1D, Dropout, Flatten, BatchNormalization, LSTM, \
+    Bidirectional, Dense
 
 
-with open('dataset_values.pickle', 'rb') as values:
-    print('opening values')
-    formatted_values = pickle.load(values)
+def music_model(frame_size, feature_count, channels):
+    model = Sequential()
 
-with open('dataset_chroma.pickle', 'rb') as chroma:
-    print('opening chroma')
-    formatted_chroma = pickle.load(chroma)
+    model.add(Dense(32, activation='relu', input_dim=24))
+    model.add(Dense(32, activation='relu'))
 
-#formatted_chroma = collections.OrderedDict()
-#
-# for folder in glob.glob('metadata/*/'):
-#     #print(folder)
-#     folderID = folder.split('/')[1]
-#     folderID = folderID.lstrip('0')
-#     print("FILE ID: " + folderID)
-#     for file in glob.glob(folder + '/bothchroma.csv'):
-#         with open(file) as chromaFile:
-#
-#             values = collections.OrderedDict()
-#
-#             strChromaFile = str(chromaFile.read())
-#             # try:
-#             #     strFile = strFile.split('silence')[1]
-#             # except IndexError:
-#             #     print("No Silence found")
-#
-#             strChromaFile = strChromaFile.split('\n')
-#             #print (strChromaFile)
-#             for line in strChromaFile:
-#                 if line != '':
-#                     vals = line.split(',')
-#                     timestamp = vals[1]
-#                     chromaVals = vals[2:]
-#                     values[timestamp] = chromaVals
-#
-#             formatted_chroma[folderID] = values
+    model.add(Dropout(0.2))
 
-folderID = 3
+    model.add(Dense(64, activation='relu'))
+    model.add(Dropout(0.25))
 
-print(formatted_values[folderID])
-print(formatted_chroma[folderID])
+    model.add(Dense(128, activation='relu'))
+
+    model.add((Dropout(0.25)))
+
+    model.add(Dense(64, activation='relu'))
+    model.add(Dense(32, activation='relu'))
+
+    model.add(Dropout(0.2))
+
+    model.add(Dense(16, activation='sigmoid'))
+
+
+    # # Add x3 Convolutional Layers
+    # model.add(Convolution1D(32, 3, activation='relu', input_shape=(frame_size, feature_count)))
+    # model.add(Convolution1D(32, 3, activation='relu'))
+    # model.add(MaxPooling1D(2, 2))
+    #
+    # model.add(Dropout(0.25))
+    #
+    # # Add x3 Convolutional Layers (Total 6)
+    # model.add(Convolution1D(64, 3, activation='relu'))
+    # model.add(Convolution1D(64, 3, activation='relu'))
+    # model.add(MaxPooling1D(2, 2))
+    #
+    # model.add(Dropout(0.25))
+    #
+    # # Add x3 Convolutional Layers (Total 9)
+    # model.add(Convolution1D(64, 3, activation='relu'))
+    # model.add(Convolution1D(64, 3, activation='relu'))
+    # model.add(MaxPooling1D(2, 2))
+    #
+    # model.add(Dropout(0.25))
+    #
+    # model.add(Flatten())
+    # model.add(BatchNormalization())
+    #
+    # # Add x2 Reccurrent Layers
+    # model.add(LSTM(64, return_sequences=True))
+    # model.add(LSTM(64, return_sequences=True))
+    #
+    # model.add(Dropout(0.25))
+    # # model.add(Flatten())
+    # model.add(Dense(12, activation='sigmoid'))
+
+
+    # Add x3 Convolutional Layers
+    model.add(TimeDistributed(Convolution1D(32, 3, activation='relu'), input_shape=(frame_size, feature_count, channels)))
+    model.add(TimeDistributed(Convolution1D(32, 3, activation='relu')))
+    model.add(TimeDistributed(MaxPooling1D(2, 2)))
+
+    model.add(Dropout(0.25))
+
+    # Add x3 Convolutional Layers (Total 6)
+    model.add(TimeDistributed(Convolution1D(64, 3, activation='relu')))
+    model.add(TimeDistributed(Convolution1D(64, 3, activation='relu')))
+    model.add(TimeDistributed(MaxPooling1D(2, 2)))
+
+    model.add(Dropout(0.25))
+
+    model.add(TimeDistributed(Flatten()))
+    model.add(BatchNormalization())
+
+    # Add x2 Reccurrent Layers
+    model.add(Bidirectional(LSTM(128, return_sequences=True)))
+    model.add(Bidirectional(LSTM(128, return_sequences=True)))
+
+    model.add(Dropout(0.25))
+    #model.add(Flatten())
+    model.add(TimeDistributed(Dense(12, activation='sigmoid')))
+
+    return model
